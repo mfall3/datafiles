@@ -1,5 +1,5 @@
 # datafiles
-Juptyr notebook to analyze dataset datafile features.
+Jupyter notebook to analyze dataset datafile features.
 
 For use with datafiles_to_2021_04_01 from dataset:
 

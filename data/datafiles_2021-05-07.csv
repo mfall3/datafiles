@@ -1,17 +1,12 @@
 doi,pub_date,filename,file_format,num_bytes,total_downloads
-10.5072/FK2IDB-1754329_V1,2017-01-09,DatabaseDesignWorkshopSlides.pdf,application/pdf,2373805,48
-10.5072/FK2IDB-1754329_V1,2017-01-09,information_system_contingency_plan_template.docx,application/msword,975762,136
-10.5072/FK2IDB-1754329_V1,2017-01-09,face.jpeg,image/jpeg,3449,116
 10.13012/B2IDB-4900670_V1,2016-06-23,travel_times_2011.zip,application/zip,1335691587,470
 10.13012/B2IDB-4900670_V1,2016-06-23,links.csv,text/csv,42001684,731
 10.13012/B2IDB-4900670_V1,2016-06-23,README.txt,text/plain,5366,813
 10.13012/B2IDB-4900670_V1,2016-06-23,license.txt,text/plain,28065,730
 10.13012/B2IDB-4900670_V1,2016-06-23,travel_times_2013.zip,application/zip,1340668960,552
-10.13012/B2IDB-4900670_V1,2016-06-23,nodes.csv,text/csv,7919999,594
+10.13012/B2IDB-4900670_V1,2016-06-23,nodes.csv,text/csv,7919999,595
 10.13012/B2IDB-4900670_V1,2016-06-23,travel_times_2012.zip,application/zip,1343454210,528
 10.13012/B2IDB-4900670_V1,2016-06-23,travel_times_2010.zip,application/zip,1092159271,604
-10.5072/FK2IDB-7870835_V1,2016-05-20,letters.txt,text/plain,7,28
-10.5072/FK2IDB-7870835_V1,2016-05-20,test.txt,text/plain,4,39
 10.13012/B2IDB-6648634_V1,2016-12-14,14IL008_H9Y9MADXX_s_2_fastq.txt.gz,application/x-gzip,17632056868,389
 10.13012/B2IDB-6648634_V1,2016-12-14,16IL007_S7_L007_R1_001.fastq.gz,application/x-gzip,13545998422,388
 10.13012/B2IDB-6648634_V1,2016-12-14,16IL003_key.txt,text/plain,32950,324
@@ -50,7 +45,6 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9154233_V1,2018-04-26,15IL007_C7U9MANXX_s_1_fastq.txt.gz,application/x-gzip,13859683862,281
 10.13012/B2IDB-9154233_V1,2018-04-26,15IL008_C7U9MANXX_s_2_fastq.txt.gz,application/x-gzip,17321002302,289
 10.13012/B2IDB-9154233_V1,2018-04-26,15IL007_Tom.txt,text/plain,25440,221
-10.5072/FK2IDB-8246828_V1,2016-08-24,test.txt,text/plain,5,52
 10.13012/B2IDB-4084515_V1,2016-07-22,141027DAPC-Msi.R,text/plain,3428,276
 10.13012/B2IDB-4084515_V1,2016-07-22,150818diversity.R,text/plain,3228,284
 10.13012/B2IDB-4084515_V1,2016-07-22,160418pop_stats.R,text/plain,2394,277
@@ -83,7 +77,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4084515_V1,2016-07-22,150810phenotypes_for_R.csv,text/plain,16875,276
 10.13012/B2IDB-4084515_V1,2016-07-22,HapMapMsi.hmc.txt,text/plain,73891502,329
 10.13012/B2IDB-4475836_V1,2016-12-14,12IL013_key.txt,text/plain,7955,362
-10.13012/B2IDB-4475836_V1,2016-12-14,12IL012_key.txt,text/plain,7961,377
+10.13012/B2IDB-4475836_V1,2016-12-14,12IL012_key.txt,text/plain,7961,378
 10.13012/B2IDB-4475836_V1,2016-12-14,12IL012_D10MRACXX_s_7_fastq.txt.gz,application/x-gzip,18891620589,460
 10.13012/B2IDB-4475836_V1,2016-12-14,12IL013_D10MRACXX_s_3_fastq.txt.gz,application/x-gzip,19501152305,547
 10.13012/B2IDB-4475836_V1,2016-12-14,12IL011_D10MRACXX_s_1_fastq.txt.gz,application/x-gzip,18939397962,495
@@ -94,7 +88,6 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6530647_V1,2016-12-14,13IL011_D274FACXX_s_6_fastq.txt.gz,application/x-gzip,15768129610,340
 10.13012/B2IDB-6530647_V1,2016-12-14,13IL004_C1UPLACXX_s_5_fastq.txt.gz,application/x-gzip,16317150786,319
 10.13012/B2IDB-6530647_V1,2016-12-14,13IL011_key.txt,text/plain,17789,294
-10.5072/FK2IDB-5840139_V1,2016-07-22,print_icon.gif,image/gif,1861,177
 10.13012/B2IDB-9276024_V1,2016-12-02,pop_num_4week.csv,text/csv,1318,314
 10.13012/B2IDB-8561435_V1,2016-12-14,12IL007_C0G97ACXX_s_1_fastq.txt.gz,application/x-gzip,12847823606,295
 10.13012/B2IDB-8561435_V1,2016-12-14,12IL006_key.txt,text/plain,7961,363
@@ -109,14 +102,13 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0094019_V1,2016-12-14,11IL005_key.txt,text/plain,7542,359
 10.13012/B2IDB-0094019_V1,2016-12-14,11IL005_D0CR6ACXX_s_7_fastq.txt.gz,application/x-gzip,17448888681,310
 10.13012/B2IDB-3782968_V1,2018-12-20,Error_Analysis.xlsx,application/vnd.ms-excel,135258,227
-10.13012/B2IDB-1616387_V1,2018-02-22,README.txt,text/plain,2270,238
-10.13012/B2IDB-1616387_V1,2018-02-22,data.zip,application/zip,21608011,345
-10.5072/FK2IDB-0691405_V1,2016-10-14,test.txt,text/plain,5,37
+10.13012/B2IDB-1616387_V1,2018-02-22,README.txt,text/plain,2270,239
+10.13012/B2IDB-1616387_V1,2018-02-22,data.zip,application/zip,21608011,346
 10.13012/B2IDB-7546972_V1,2016-11-28,pcmap.zip,application/zip,93132625,586
 10.13012/B2IDB-7735354_V1,2017-09-19,species-trees-rand.tar.gz,application/x-gzip,33167225,324
 10.13012/B2IDB-7735354_V1,2017-09-19,gene-trees-full.tar.gz,application/x-gzip,153794884,419
 10.13012/B2IDB-7735354_V1,2017-09-19,alignments-rand.tar.gz,application/x-gzip,635271705,464
-10.13012/B2IDB-7735354_V1,2017-09-19,alignments-clad.tar.gz,application/x-gzip,223881622,306
+10.13012/B2IDB-7735354_V1,2017-09-19,alignments-clad.tar.gz,application/x-gzip,223881622,307
 10.13012/B2IDB-7735354_V1,2017-09-19,alignments-full.tar.gz,application/x-gzip,494970995,446
 10.13012/B2IDB-7735354_V1,2017-09-19,ekm-tw-missing-data-supplement.pdf,application/pdf,511706,435
 10.13012/B2IDB-7735354_V1,2017-09-19,species-trees-clad.tar.gz,application/x-gzip,32580913,426
@@ -162,7 +154,6 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-2011663_V1,2018-01-03,beast_parameters_coi_brueelia.xml,text/xml,198356,316
 10.13012/B2IDB-1968634_V1,2016-05-26,ReadMe.txt,text/plain,3000,330
 10.13012/B2IDB-1968634_V1,2016-05-26,Tracy_CRLPublishingUsersData.csv,text/csv,102845,323
-10.5072/FK2IDB-1115631_V1,2017-02-14,test.txt,text/plain,5,95
 10.13012/B2IDB-6534803_V1,2017-02-21,16IL004_C8BYLANXX_s_4.fastq.txt.gz,application/x-gzip,14113076307,384
 10.13012/B2IDB-6534803_V1,2017-02-21,16IL006_C8BYLANXX_s_6.fastq.txt.gz,application/x-gzip,13469017121,372
 10.13012/B2IDB-6534803_V1,2017-02-21,15IL010_C820YANXX_s_1_fastq.txt.gz,application/x-gzip,17037045767,275
@@ -190,7 +181,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-3958294_V1,2016-12-13,LB_experiment3_round5.bam,application/x-gzip,699990786,428
 10.13012/B2IDB-3958294_V1,2016-12-13,gal_experiment2_round5.bam,application/x-gzip,137580058,380
 10.13012/B2IDB-3958294_V1,2016-12-13,LB_experiment4_round5.bam,application/x-gzip,934728347,618
-10.13012/B2IDB-3958294_V1,2016-12-13,LB_experiment4_round10.bam,application/x-gzip,1288521087,476
+10.13012/B2IDB-3958294_V1,2016-12-13,LB_experiment4_round10.bam,application/x-gzip,1288521087,477
 10.13012/B2IDB-3958294_V1,2016-12-13,LB_experiment4_round15.bam,application/x-gzip,786699774,480
 10.13012/B2IDB-3958294_V1,2016-12-13,LB_experiment3_round10.bam,application/x-gzip,109640313,455
 10.13012/B2IDB-3958294_V1,2016-12-13,gal_experiment1_round10.bam,application/x-gzip,420374962,476
@@ -262,7 +253,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-2211060_V2,2020-03-13,pdhum_mapped.zip,application/zip,23874,79
 10.13012/B2IDB-2211060_V2,2020-03-13,Comac3_atram_mitobim.fasta,text/plain,22542,80
 10.13012/B2IDB-2211060_V2,2020-03-13,Copas1_atram_mitobim.fasta,text/plain,20024,89
-10.13012/B2IDB-2211060_V2,2020-03-13,readme.txt,text/plain,3238,96
+10.13012/B2IDB-2211060_V2,2020-03-13,readme.txt,text/plain,3238,97
 10.13012/B2IDB-5495131_V1,2016-12-19,modules_bymonth.ods,application/vnd.oasis.opendocument.spreadsheet,7764,387
 10.13012/B2IDB-5495131_V1,2016-12-19,General_Stats_iOS_Android_ModuleHits.ods,application/vnd.oasis.opendocument.spreadsheet,3532,347
 10.13012/B2IDB-5495131_V1,2016-12-19,paths_to_month_cleaned_filtered.ods,application/vnd.oasis.opendocument.spreadsheet,1482590,583
@@ -346,7 +337,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-8402610_V1,2017-06-15,data.zip,application/zip,7255768,572
 10.13012/B2IDB-1528275_V1,2017-09-08,Brickworktransport.zip,application/zip,51268,263
 10.13012/B2IDB-1528275_V1,2017-09-08,brickarmchair10241024uclineintegral.m,text/plain,6360,423
-10.13012/B2IDB-1528275_V1,2017-09-08,brickwork_m001SEM.jpg,image/jpeg,398128,403
+10.13012/B2IDB-1528275_V1,2017-09-08,brickwork_m001SEM.jpg,image/jpeg,398128,404
 10.13012/B2IDB-1528275_V1,2017-09-08,20161129BDB_020417_m001SEM.tif,image/tiff,4922078,317
 10.13012/B2IDB-1528275_V1,2017-09-08,brickwork_2degMFM.bmp,image/bmp,821206,322
 10.13012/B2IDB-1528275_V1,2017-09-08,brickworkgsMFM.bmp,image/bmp,821206,436
@@ -517,21 +508,20 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0852856_V1,2018-03-14,readme.txt,text/plain,3476,144
 10.13012/B2IDB-0852856_V1,2018-03-14,fruitSet.csv,text/csv,1854,282
 10.13012/B2IDB-0852856_V1,2018-03-14,seedSet.csv,text/csv,8490,312
-10.5072/FK2IDB-0362951_V1,2018-03-15,test.txt,text/plain,5,47
 10.13012/B2IDB-5072223_V1,2016-11-30,BioScience_Milkweed_Data.7z,application/x-7z-compressed,21531,480
 10.13012/B2IDB-5060298_V1,2018-04-23,mesh_scores.tsv,text/plain,37159095,477
-10.13012/B2IDB-5060298_V1,2018-04-23,PubMed2015_NoveltyData.tsv,text/plain,568587312,428
+10.13012/B2IDB-5060298_V1,2018-04-23,PubMed2015_NoveltyData.tsv,text/plain,568587312,429
 10.13012/B2IDB-5060298_V1,2018-04-23,meshpair_scores.txt.gz,application/x-gzip,8968341512,431
 10.13012/B2IDB-5060298_V1,2018-04-23,README.txt,text/plain,3569,244
 10.13012/B2IDB-9665377_V1,2018-04-23,results_all_model.tar.gz,application/x-gzip,1376311,513
 10.13012/B2IDB-9665377_V1,2018-04-23,Training_data_2002_2005_pmc_pair_First.txt,text/plain,1182334354,395
-10.13012/B2IDB-9665377_V1,2018-04-23,Training_data_2002_2005_pmc_pair_txt.header.txt,text/plain,734,314
+10.13012/B2IDB-9665377_V1,2018-04-23,Training_data_2002_2005_pmc_pair_txt.header.txt,text/plain,734,315
 10.13012/B2IDB-9665377_V1,2018-04-23,COLUMNS_DESC.txt,text/plain,8468,282
 10.13012/B2IDB-9665377_V1,2018-04-23,README.txt,text/plain,6692,304
 10.13012/B2IDB-9665377_V1,2018-04-23,model_text_files.tar.gz,application/x-gzip,189779,496
 10.13012/B2IDB-9665377_V1,2018-04-23,Training_data_2002_2005_pmc_pair_Last.txt,text/plain,1190191587,383
 10.13012/B2IDB-9665377_V1,2018-04-23,Training_data_2002_2005_pmc_pair_Middle_2nd.txt,text/plain,1010123655,431
-10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part05.gz,application/x-gzip,365434496,535
+10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part05.gz,application/x-gzip,365434496,536
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.readme,text/plain,5659,454
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part09.gz,application/x-gzip,366616044,550
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.md5,text/plain,1044,452
@@ -547,7 +537,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part13.gz,application/x-gzip,365843600,541
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part14.gz,application/x-gzip,365788172,528
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part15.gz,application/x-gzip,365946137,515
-10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part17.gz,application/x-gzip,174958178,500
+10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part17.gz,application/x-gzip,174958178,501
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part02.gz,application/x-gzip,367334182,550
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part03.gz,application/x-gzip,367445272,546
 10.13012/B2IDB-4222651_V1,2018-04-19,authority2009.part01.gz,application/x-gzip,365478321,544
@@ -616,7 +606,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0170190_V2,2018-03-26,180211filter_and_dapc.R,text/plain,8372,113
 10.13012/B2IDB-0170190_V2,2018-03-26,160511polyfreq.R,text/x-java,2530,111
 10.13012/B2IDB-0170190_V2,2018-03-26,UNEAK_output_-_before_merging_clones.zip,application/zip,45435592,112
-10.13012/B2IDB-0170190_V2,2018-03-26,Structure_results_with_hyb_and_orn.zip,application/zip,4136973,152
+10.13012/B2IDB-0170190_V2,2018-03-26,Structure_results_with_hyb_and_orn.zip,application/zip,4136973,153
 10.13012/B2IDB-0170190_V2,2018-03-26,160229find_duplicates.R,text/plain,11171,118
 10.13012/B2IDB-0170190_V2,2018-03-26,180224het_and_ploidy.R,text/plain,9568,109
 10.13012/B2IDB-0170190_V2,2018-03-26,180212cp_analysis.R,text/x-java,22982,123
@@ -624,7 +614,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0170190_V2,2018-03-26,170616orn_map.R,text/plain,5049,123
 10.13012/B2IDB-0170190_V2,2018-03-26,170613pies_on_map.R,text/plain,9527,114
 10.13012/B2IDB-0170190_V2,2018-03-26,180123export_to_DIYABC.R,text/plain,4725,122
-10.13012/B2IDB-0170190_V2,2018-03-26,README.txt,text/plain,8893,195
+10.13012/B2IDB-0170190_V2,2018-03-26,README.txt,text/plain,8893,196
 10.13012/B2IDB-0170190_V2,2018-03-26,structure_scripts_main_ms.zip,application/zip,2227,107
 10.13012/B2IDB-0170190_V2,2018-03-26,DIYABC_scenarios_for_polyploid_origins_180111.txt,text/plain,4721,123
 10.13012/B2IDB-0170190_V2,2018-03-26,160601_DAPC_and_chloroplast_data_for_analysis.csv,text/csv,110508,115
@@ -696,7 +686,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9440404_V1,2019-05-31,results_nodes_stat_all_2019-05-31_V1.csv,text/csv,3666876,126
 10.13012/B2IDB-9440404_V1,2019-05-31,network_graph_2019-05-31_V1.png,image/png,106731,131
 10.13012/B2IDB-9686195_V1,2018-04-24,ConstrainHistBC_data.xlsx,application/vnd.ms-excel,49391,168
-10.13012/B2IDB-7281207_V1,2019-06-11,Matlab Code.zip,application/zip,5594,141
+10.13012/B2IDB-7281207_V1,2019-06-11,Matlab Code.zip,application/zip,5594,142
 10.13012/B2IDB-7281207_V1,2019-06-11,README.txt,text/plain,5202,130
 10.13012/B2IDB-7281207_V1,2019-06-11,Data for Main Text Figures.zip,application/zip,328668,145
 10.13012/B2IDB-4137411_V1,2018-06-05,D1_bcr_avr_sd.csv,text/csv,8658738,326
@@ -754,7 +744,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0873454_V1,2019-01-07,CCE-books-transcription_1931-1933_readme.txt,text/plain,6925,211
 10.13012/B2IDB-0873454_V1,2019-01-07,complete-us-books_1931-1933_all_parts_transcription.csv,text/csv,11802511,720
 10.13012/B2IDB-8274875_V1,2018-07-25,RR-expert-assessment-Scannapieco-2018-02.pdf,application/pdf,1161686,192
-10.13012/B2IDB-6066174_V1,2019-02-02,Bee_visitation_Bennett_Lovell_PLOS_ONE.xls,application/vnd.ms-excel,24064,228
+10.13012/B2IDB-6066174_V1,2019-02-02,Bee_visitation_Bennett_Lovell_PLOS_ONE.xls,application/vnd.ms-excel,24064,229
 10.13012/B2IDB-6679875_V1,2018-08-06,Data_Extraction_Analysis_2018-08-04.xlsx,application/vnd.ms-excel,184695,320
 10.13012/B2IDB-1324977_V1,2018-08-16,Bay_Delta_pepperweed_all_data_for_repository_180815.csv,text/csv,15790,327
 10.13012/B2IDB-0852856_V2,2018-08-03,seedSet.csv,text/csv,9275,296
@@ -780,7 +770,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9213932_V1,2018-10-03,US2-crawl-data.sqlite.xz,application/x-xz,2208812368,281
 10.13012/B2IDB-9213932_V1,2018-10-03,US2-sensor-scripts.csv,text/csv,113620,251
 10.13012/B2IDB-9213932_V1,2018-10-03,US1-javascript.ldb.tar.xz,application/x-xz,12787651932,278
-10.13012/B2IDB-9213932_V1,2018-10-03,US2-sensor-sites.csv,text/csv,28105,248
+10.13012/B2IDB-9213932_V1,2018-10-03,US2-sensor-sites.csv,text/csv,28105,249
 10.13012/B2IDB-9213932_V1,2018-10-03,US1-sensor-sites.csv,text/csv,29612,250
 10.13012/B2IDB-9213932_V1,2018-10-03,EU1-javascript.ldb.tar.xz,application/x-xz,12313023952,282
 10.13012/B2IDB-9213932_V1,2018-10-03,US1-cluster-labels.csv,text/csv,45473,278
@@ -802,7 +792,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9213932_V1,2018-10-03,README.md,text/plain,2834,253
 10.13012/B2IDB-8131709_V1,2018-10-05,Supplementary_Materials_Mattia.pdf,application/pdf,656545,223
 10.13012/B2IDB-6701059_V1,2018-09-04,UIUC_Interlibrary_Loan_Lending_Data_2009-2013_IllinoisDataBank.xlsx,application/vnd.ms-excel,52825370,240
-10.13012/B2IDB-6316661_V1,2018-12-12,CyberGIS-Jupyter_HAND_Example.zip,application/zip,443989510,100
+10.13012/B2IDB-6316661_V1,2018-12-12,CyberGIS-Jupyter_HAND_Example.zip,application/zip,443989510,101
 10.13012/B2IDB-7869554_V1,2019-02-02,site_Attributes_Bee_Data_Bennett_Lovell_PLOS_ONE.xlsx,application/vnd.ms-excel,14788,185
 10.13012/B2IDB-1599850_V1,2019-09-05,Data_for_A_novel_rotifer_derived_alkaloid_paralyzes_schistosome_larvae_and_prevents_infection.zip,application/zip,408755115,179
 10.13012/B2IDB-6050723_V1,2020-09-14,Gardner Midwest Lyme Invasion Data 102818.xlsx,application/vnd.ms-excel,499610,12
@@ -843,7 +833,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0790815_V2,2018-12-19,170205combined_yield_components_all.csv,text/csv,1356849,205
 10.13012/B2IDB-0790815_V2,2018-12-19,170308GAPIT_script.R,text/plain,1604,172
 10.13012/B2IDB-0790815_V2,2018-12-19,180402genetic_correlations_traits.R,text/plain,21672,169
-10.13012/B2IDB-0790815_V2,2018-12-19,181218plotQTL.R,text/plain,6838,168
+10.13012/B2IDB-0790815_V2,2018-12-19,181218plotQTL.R,text/plain,6838,169
 10.13012/B2IDB-0790815_V2,2018-12-19,cc_sig.csv,text/csv,6606,187
 10.13012/B2IDB-0790815_V2,2018-12-19,other_qtl.csv,text/csv,23118,194
 10.13012/B2IDB-0790815_V2,2018-12-19,170111kin_blup_test_for_Maria.R,text/plain,2970,178
@@ -877,9 +867,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0016089_V1,2019-07-18,JAE plant Comm.xlsx,application/vnd.ms-excel,15059,57
 10.13012/B2IDB-9837167_V1,2018-12-20,WordsSelectedByInformationGain.csv,text/csv,15596,183
 10.13012/B2IDB-8659314_V1,2018-12-20,WordsSelectedByManualAnalysis.csv,text/csv,4368,206
-10.5072/FK2-1024673_V1,2019-02-19,the_whale.txt,text/plain,1276201,0
-10.5072/FK2-1024673_V1,2019-02-19,Brain_Images.zip,application/zip,1488150816,0
-10.13012/B2IDB-3993338_V1,2019-02-19,Figure_2A_Countries.TIFF,image/tiff,773138,209
+10.13012/B2IDB-3993338_V1,2019-02-19,Figure_2A_Countries.TIFF,image/tiff,773138,210
 10.13012/B2IDB-3993338_V1,2019-02-19,main.R,text/plain,691,193
 10.13012/B2IDB-3993338_V1,2019-02-19,Figure_2B_Hosts.TIFF,image/tiff,773138,192
 10.13012/B2IDB-3993338_V1,2019-02-19,nar_v20_pers_3_plot.csv,text/plain,52,184
@@ -923,15 +911,15 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-1591542_V1,2020-10-28,Detect_35clams.csv,"",3248,24
 10.13012/B2IDB-1591542_V1,2020-10-28,Detect_125clams.csv,"",3174,23
 10.13012/B2IDB-1591542_V1,2020-10-28,Occupancy.csv,"",883,19
-10.13012/B2-3125702_V1,2019-02-26,Tandem MS.zip,application/zip,1033805456,217
-10.13012/B2-3125702_V1,2019-02-26,Animals 4-6 Images.zip,application/zip,16893807771,205
-10.13012/B2-3125702_V1,2019-02-26,Neumann_This Lipid heterogeneity between astrocytes and neurons revealed with single cell MALDI MS supervised by immunocytochemical classification_Readme.txt,text/plain,2412,248
-10.13012/B2-3125702_V1,2019-02-26,Animals 1-3 MS.zip,application/zip,3394019137,225
-10.13012/B2-3125702_V1,2019-02-26,Lipid Extracts.zip,application/zip,214489313,218
-10.13012/B2-3125702_V1,2019-02-26,MatFiles.zip,application/zip,1579169033,224
-10.13012/B2-3125702_V1,2019-02-26,RecalibrationHelper.zip,application/zip,212744,209
-10.13012/B2-3125702_V1,2019-02-26,Animals 1-3 Images.zip,application/zip,14819969986,221
-10.13012/B2-3125702_V1,2019-02-26,Animals 4-6 Mass Spectra.zip,application/zip,2214494715,221
+10.13012/B2-3125702_V1,2019-02-26,Tandem MS.zip,application/zip,1033805456,218
+10.13012/B2-3125702_V1,2019-02-26,Animals 4-6 Images.zip,application/zip,16893807771,206
+10.13012/B2-3125702_V1,2019-02-26,Neumann_This Lipid heterogeneity between astrocytes and neurons revealed with single cell MALDI MS supervised by immunocytochemical classification_Readme.txt,text/plain,2412,249
+10.13012/B2-3125702_V1,2019-02-26,Animals 1-3 MS.zip,application/zip,3394019137,226
+10.13012/B2-3125702_V1,2019-02-26,Lipid Extracts.zip,application/zip,214489313,219
+10.13012/B2-3125702_V1,2019-02-26,MatFiles.zip,application/zip,1579169033,225
+10.13012/B2-3125702_V1,2019-02-26,RecalibrationHelper.zip,application/zip,212744,210
+10.13012/B2-3125702_V1,2019-02-26,Animals 1-3 Images.zip,application/zip,14819969986,222
+10.13012/B2-3125702_V1,2019-02-26,Animals 4-6 Mass Spectra.zip,application/zip,2214494715,222
 10.13012/B2IDB-9119873_V1,2019-03-05,500uCi_1m.csv,text/plain,271396,174
 10.13012/B2IDB-9119873_V1,2019-03-05,500uCi_5m.csv,text/plain,271391,170
 10.13012/B2IDB-9119873_V1,2019-03-05,100uCi_10m.csv,text/plain,271291,167
@@ -944,7 +932,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9119873_V1,2019-03-05,500uCi_10m.csv,text/plain,271341,163
 10.13012/B2IDB-9119873_V1,2019-03-05,1000uCi_1m.csv,text/plain,271509,168
 10.13012/B2IDB-9119873_V1,2019-03-05,README.txt,text/plain,2526,182
-10.13012/B2IDB-9119873_V1,2019-03-05,2000uCi_5m.csv,text/plain,271682,171
+10.13012/B2IDB-9119873_V1,2019-03-05,2000uCi_5m.csv,text/plain,271682,172
 10.13012/B2IDB-9119873_V1,2019-03-05,1000uCi_5m.csv,text/plain,271488,177
 10.13012/B2IDB-9119873_V1,2019-03-05,100uCi_5m.csv,text/plain,271311,168
 10.13012/B2IDB-9119873_V1,2019-03-05,2000uCi_1m.csv,text/plain,271744,165
@@ -1042,14 +1030,14 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_06_06_0001.abf,application/octet-stream,904077312,108
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_16_0003.abf,application/octet-stream,969858048,111
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_07_20_0006.abf,application/octet-stream,902923264,108
-10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_12_0007.abf,application/octet-stream,960928000,107
+10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_12_0007.abf,application/octet-stream,960928000,108
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_18_0007.abf,application/octet-stream,963334656,110
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_06_20_0003.abf,application/octet-stream,942260736,98
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_04_01_0006.abf,application/octet-stream,888422912,111
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_06_06_0002.abf,application/octet-stream,901568000,110
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_03_0001.abf,application/octet-stream,961931264,118
-10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_12_0015.abf,application/octet-stream,972518656,107
-10.13012/B2IDB-4905767_V1,2019-10-23,2019_04_01_0004.abf,application/octet-stream,912357376,102
+10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_12_0015.abf,application/octet-stream,972518656,108
+10.13012/B2IDB-4905767_V1,2019-10-23,2019_04_01_0004.abf,application/octet-stream,912357376,103
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_19_0005.abf,application/octet-stream,962282496,112
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_15_0001.abf,application/octet-stream,1000715776,101
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_23_0004.abf,application/octet-stream,962080768,120
@@ -1057,7 +1045,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_12_0018.abf,application/octet-stream,963538432,109
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_04_15_0001-s1.abf,application/octet-stream,1008008192,114
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_12_0017.abf,application/octet-stream,964089344,99
-10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_09_0013.abf,application/octet-stream,1001468416,107
+10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_09_0013.abf,application/octet-stream,1001468416,108
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_06_19_0001.abf,application/octet-stream,931272704,102
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_03_25_0006.abf,application/octet-stream,905782784,103
 10.13012/B2IDB-4905767_V1,2019-10-23,2019_06_05_0002.abf,application/octet-stream,901919744,104
@@ -1065,7 +1053,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_09_0004.abf,application/octet-stream,1055507968,115
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_04_16_0004.abf,application/octet-stream,992387584,118
 10.13012/B2IDB-4905767_V1,2019-10-23,2018_05_23_0001.abf,application/octet-stream,971413504,106
-10.13012/B2IDB-4905767_V1,2019-10-23,2019_05_15_0002_4 M KCl 4M KNO3 8µL IuL invPore-s1.abf,application/octet-stream,1218008192,108
+10.13012/B2IDB-4905767_V1,2019-10-23,2019_05_15_0002_4 M KCl 4M KNO3 8µL IuL invPore-s1.abf,application/octet-stream,1218008192,109
 10.13012/B2IDB-4905767_V1,2019-10-23,par_all36_dphpc.str,text/plain,317,50
 10.13012/B2IDB-4905767_V1,2019-10-23,par_water_ions_cufix.prm,text/plain,7163,45
 10.13012/B2IDB-4905767_V1,2019-10-23,par_all36_lipid.prm,text/plain,28988,48
@@ -1078,7 +1066,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero_equil.restart.coor,application/octet-stream,10730908,80
 10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero_equil.restart.vel,application/octet-stream,10730908,80
 10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero_LANGEVIN.pdb,text/plain,35322634,101
-10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero_SMD_LANGEVIN.pdb,text/plain,35336775,82
+10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero_SMD_LANGEVIN.pdb,text/plain,35336775,83
 10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero.pdb,text/plain,35322634,99
 10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero_restraint.pdb,text/plain,35322634,78
 10.13012/B2IDB-4905767_V1,2019-10-23,MD_aero_RR7.pdb,text/plain,35336775,104
@@ -1188,18 +1176,18 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0790815_V3,2019-03-25,170308GAPIT_script.R,text/plain,1604,240
 10.13012/B2IDB-0790815_V3,2019-03-25,190221QST_and_genotype-within-group_BLUPs.R,text/plain,41176,235
 10.13012/B2IDB-0790815_V3,2019-03-25,161201markers.csv,text/csv,9850291,260
-10.13012/B2IDB-0790815_V3,2019-03-25,hapMap2numeric.R,text/plain,1536,228
+10.13012/B2IDB-0790815_V3,2019-03-25,hapMap2numeric.R,text/plain,1536,229
 10.13012/B2IDB-0790815_V3,2019-03-25,index_gff3.py,text/x-python,3859,242
 10.13012/B2IDB-0790815_V3,2019-03-25,README_for_IDB_v3.txt,text/plain,11996,168
 10.13012/B2IDB-0790815_V3,2019-03-25,161104markers.csv,text/csv,10753516,308
-10.13012/B2IDB-0790815_V3,2019-03-25,140527entrylookuptable.csv,text/csv,18126,248
+10.13012/B2IDB-0790815_V3,2019-03-25,140527entrylookuptable.csv,text/csv,18126,249
 10.13012/B2IDB-0790815_V3,2019-03-25,Msi_imputed_SNP_genotypes_field_trial.csv,text/csv,197143068,256
 10.13012/B2IDB-0790815_V3,2019-03-25,Msi_SNP_info_field_trial.csv,text/csv,5086632,345
 10.13012/B2IDB-0790815_V3,2019-03-25,170310 back transform LSmeans.R,text/plain,19650,240
 10.13012/B2IDB-0790815_V3,2019-03-25,171030 analyze GAPIT results.R,text/plain,43626,237
 10.13012/B2IDB-0790815_V3,2019-03-25,170215heritability_blups_gen_predict.R,text/plain,17947,237
 10.13012/B2IDB-0790815_V3,2019-03-25,170111markers.csv,text/csv,12987866,315
-10.13012/B2IDB-0790815_V3,2019-03-25,index_gff3_170111.py,text/x-python,3861,279
+10.13012/B2IDB-0790815_V3,2019-03-25,index_gff3_170111.py,text/x-python,3861,280
 10.13012/B2IDB-0790815_V3,2019-03-25,NsiI_HapMap.zip,application/zip,109410231,243
 10.13012/B2IDB-0790815_V3,2019-03-25,PstI_HapMap.zip,application/zip,63895526,234
 10.13012/B2IDB-2044905_V1,2019-03-22,readme.docx,application/msword,13159,160
@@ -1399,7 +1387,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Vel_L_Hand.TXT_V2,text/plain,5696,254
 10.13012/B2IDB-6858418_V2,2017-12-22,MS001_Pre_Vel_L_Upper_Leg.TXT_V2,text/plain,7786,234
 10.13012/B2IDB-6858418_V2,2017-12-22,MS002_Pre_Vel_L_Knee.TXT_V2,text/plain,4481,287
-10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Vel_L_Toe.TXT_V2,text/plain,5434,200
+10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Vel_L_Toe.TXT_V2,text/plain,5434,201
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Pre_Vel_R_Elbow.TXT_V2,text/plain,7439,265
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Vel_R_Knee.TXT_V2,text/plain,5693,261
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Pre_Vel_L_Toe.TXT_V2,text/plain,6961,278
@@ -1431,7 +1419,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Vel_L_Temple.TXT_V2,text/plain,5877,201
 10.13012/B2IDB-6858418_V2,2017-12-22,MS002_Post_Vel_R_Knee.TXT_V2,text/plain,3931,276
 10.13012/B2IDB-6858418_V2,2017-12-22,MS003_Post_Vel_L_Elbow.TXT_V2,text/plain,5809,274
-10.13012/B2IDB-6858418_V2,2017-12-22,Data_Bank_Cleaner.py,text/x-java,1134,291
+10.13012/B2IDB-6858418_V2,2017-12-22,Data_Bank_Cleaner.py,text/x-java,1134,292
 10.13012/B2IDB-6858418_V2,2017-12-22,MS006_Post_Vel_L_Toe.TXT_V2,text/plain,12723,204
 10.13012/B2IDB-6858418_V2,2017-12-22,MS001_Pre_Vel_R_Lat_Ankle.TXT_V2,text/plain,7641,282
 10.13012/B2IDB-6858418_V2,2017-12-22,MS006_Pre_Vel_R_Lower_Arm.TXT_V2,text/plain,19978,210
@@ -1555,7 +1543,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V2,2017-12-22,MS003_Post_Force_Left.mat,application/octet-stream,677976,299
 10.13012/B2IDB-6858418_V2,2017-12-22,MS002_Pre_Vel_L_Lower_Leg.TXT_V2,text/plain,4397,281
 10.13012/B2IDB-6858418_V2,2017-12-22,READ_ME_databank.txt,text/plain,412,181
-10.13012/B2IDB-6858418_V2,2017-12-22,MS001_Pre_Vel_R_Upper_Arm.TXT_V2,text/plain,6751,309
+10.13012/B2IDB-6858418_V2,2017-12-22,MS001_Pre_Vel_R_Upper_Arm.TXT_V2,text/plain,6751,310
 10.13012/B2IDB-6858418_V2,2017-12-22,MS005_Pre_Force_Back.mat,application/octet-stream,1441880,306
 10.13012/B2IDB-6858418_V2,2017-12-22,MS004_Post_Vel_R_Knee.TXT_V2,text/plain,10132,267
 10.13012/B2IDB-6858418_V2,2017-12-22,MS002_Pre_Vel_R_Elbow.TXT_V2,text/plain,4494,278
@@ -1569,7 +1557,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V2,2017-12-22,MS003_Pre_Vel_L_Temple.TXT_V2,text/plain,5281,280
 10.13012/B2IDB-6858418_V2,2017-12-22,MS004_Post_Vel_R_Lower_Arm.TXT_V2,text/plain,10052,215
 10.13012/B2IDB-6858418_V2,2017-12-22,MS004_Post_Vel_R_Upper_Leg.TXT_V2,text/plain,10116,220
-10.13012/B2IDB-6858418_V2,2017-12-22,MS004_Pre_Vel_L_Temple.TXT_V2,text/plain,13705,287
+10.13012/B2IDB-6858418_V2,2017-12-22,MS004_Pre_Vel_L_Temple.TXT_V2,text/plain,13705,288
 10.13012/B2IDB-6858418_V2,2017-12-22,MS005_Post_Vel_L_Elbow.TXT_V2,text/plain,7410,277
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Pre_Vel_R_Upper_Arm.TXT_V2,text/plain,7433,258
 10.13012/B2IDB-6858418_V2,2017-12-22,MS001_Post_Vel_R_Lower_Leg.TXT_V2,text/plain,5807,309
@@ -1626,7 +1614,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V2,2017-12-22,MS007_Post_Force_Right.mat,application/octet-stream,448240,273
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Force_Back.mat,application/octet-stream,392088,282
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Pre_Force_Back.mat,application/octet-stream,335256,271
-10.13012/B2IDB-6858418_V2,2017-12-22,MS007_Pre_Force_Right.mat,application/octet-stream,451896,276
+10.13012/B2IDB-6858418_V2,2017-12-22,MS007_Pre_Force_Right.mat,application/octet-stream,451896,277
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Force_Forward.mat,application/octet-stream,562720,300
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Force_Left.mat,application/octet-stream,451112,287
 10.13012/B2IDB-6858418_V2,2017-12-22,MS004_Post_Vel_R_Toe.TXT_V2,text/plain,9718,263
@@ -1646,26 +1634,26 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Vel_R_Upper_Leg.TXT_V2,text/plain,5745,216
 10.13012/B2IDB-6858418_V2,2017-12-22,MS006_Post_Vel_R_Lower_Arm.TXT_V2,text/plain,13199,274
 10.13012/B2IDB-6858418_V2,2017-12-22,MS006_Pre_Vel_L_Lower_Arm.TXT_V2,text/plain,20220,214
-10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Force_Right.mat,application/octet-stream,415112,280
+10.13012/B2IDB-6858418_V2,2017-12-22,MS008_Post_Force_Right.mat,application/octet-stream,415112,281
 10.13012/B2IDB-6858418_V2,2017-12-22,MS001_Pre_Vel_L_Trochanter.TXT_V2,text/plain,7786,286
 10.13012/B2IDB-6858418_V2,2017-12-22,MS004_Post_Vel_L_Knee.TXT_V2,text/plain,10149,275
 10.13012/B2IDB-6858418_V2,2017-12-22,MS005_Post_Vel_R_Hand.TXT_V2,text/plain,7419,266
 10.13012/B2IDB-6858418_V2,2017-12-22,MS001_Post_R_Trochanter.TXT_V2,text/plain,5687,315
 10.13012/B2IDB-6858418_V2,2017-12-22,MS003_Post_Vel_R_Shoulder.TXT_V2,text/plain,6216,262
 10.13012/B2IDB-6858418_V2,2017-12-22,MS002_Post_Vel_R_Upper_Leg.TXT_V2,text/plain,3928,272
-10.13012/B2IDB-9320144_V2,2018-03-01,ITS1F_Miller_Fludigm_R1.fastq,text/plain,9664969169,375
-10.13012/B2IDB-9320144_V2,2018-03-01,ITS7_Miller_Fludigm_R1.fastq,text/plain,10647942484,294
-10.13012/B2IDB-9320144_V2,2018-03-01,ITS1F_Miller_Fludigm_I1_fixedheader.fastq,text/plain,1313384849,370
-10.13012/B2IDB-9320144_V2,2018-03-01,ITS7_Miller_Fludigm_I1_Fixedheaders.fastq,text/plain,1446963124,344
-10.13012/B2IDB-9320144_V2,2018-03-01,Great_lakes_Map_coordinates.xlsx,application/vnd.ms-excel,18270,252
-10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS1_R1_otu_table.csv,text/csv,59228,301
-10.13012/B2IDB-9320144_V2,2018-03-01,GL_ITS2_HW_mapFile_meta.txt,text/plain,6430,264
-10.13012/B2IDB-9320144_V2,2018-03-01,ITS2_R1_nosing_rare_5000.csv,text/csv,46954,337
-10.13012/B2IDB-9320144_V2,2018-03-01,GL_ITS1_HW_mapFile_meta.txt,text/plain,6584,247
-10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS2_R1_otu_table.csv,text/csv,53514,329
-10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS2_R1_otu_table_w_tax.csv,text/csv,101897,340
-10.13012/B2IDB-9320144_V2,2018-03-01,ITS1_R1_nosing_rare_5000.csv,text/csv,59457,357
-10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS1_R1_otu_table_w_tax.csv,text/csv,116336,347
+10.13012/B2IDB-9320144_V2,2018-03-01,ITS1F_Miller_Fludigm_R1.fastq,text/plain,9664969169,376
+10.13012/B2IDB-9320144_V2,2018-03-01,ITS7_Miller_Fludigm_R1.fastq,text/plain,10647942484,295
+10.13012/B2IDB-9320144_V2,2018-03-01,ITS1F_Miller_Fludigm_I1_fixedheader.fastq,text/plain,1313384849,372
+10.13012/B2IDB-9320144_V2,2018-03-01,ITS7_Miller_Fludigm_I1_Fixedheaders.fastq,text/plain,1446963124,346
+10.13012/B2IDB-9320144_V2,2018-03-01,Great_lakes_Map_coordinates.xlsx,application/vnd.ms-excel,18270,253
+10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS1_R1_otu_table.csv,text/csv,59228,302
+10.13012/B2IDB-9320144_V2,2018-03-01,GL_ITS2_HW_mapFile_meta.txt,text/plain,6430,267
+10.13012/B2IDB-9320144_V2,2018-03-01,ITS2_R1_nosing_rare_5000.csv,text/csv,46954,338
+10.13012/B2IDB-9320144_V2,2018-03-01,GL_ITS1_HW_mapFile_meta.txt,text/plain,6584,248
+10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS2_R1_otu_table.csv,text/csv,53514,331
+10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS2_R1_otu_table_w_tax.csv,text/csv,101897,341
+10.13012/B2IDB-9320144_V2,2018-03-01,ITS1_R1_nosing_rare_5000.csv,text/csv,59457,358
+10.13012/B2IDB-9320144_V2,2018-03-01,wahl_ITS1_R1_otu_table_w_tax.csv,text/csv,116336,348
 10.13012/B2IDB-3407079_V1,2019-05-08,File5 - Error Analysis.xlsx,application/vnd.ms-excel,63940,130
 10.13012/B2IDB-4693684_V2,2019-10-22,Dataset_2_SQI_and_ecosystem_functions.xlsx,application/vnd.ms-excel,27390,105
 10.13012/B2IDB-3805242_V1.1,2019-06-13,README.txt,"",5582,196
@@ -1681,9 +1669,9 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-8972634_V1,2020-10-01,Data_Upload.README,text/plain,1892,31
 10.13012/B2IDB-9223847_V1,2019-06-22,SEMacDonald.data.csv,text/csv,2739,155
 10.13012/B2IDB-9223847_V1,2019-06-22,README.txt,text/plain,1536,153
-10.13012/B2IDB-9851670_V1,2020-08-31,README.txt,text/plain,1343,32
-10.13012/B2IDB-9851670_V1,2020-08-31,BEPAM_Simulation_Results.csv,text/csv,29903,36
-10.13012/B2IDB-9851670_V1,2020-08-31,BEPAM-Social cost model-ERL-August2020.zip,application/zip,890573426,39
+10.13012/B2IDB-9851670_V1,2020-08-31,README.txt,text/plain,1343,33
+10.13012/B2IDB-9851670_V1,2020-08-31,BEPAM_Simulation_Results.csv,text/csv,29903,37
+10.13012/B2IDB-9851670_V1,2020-08-31,BEPAM-Social cost model-ERL-August2020.zip,application/zip,890573426,40
 10.13012/B2IDB-0016089_V2,2019-07-26,JAE Soil PC1.csv,text/csv,581,161
 10.13012/B2IDB-0016089_V2,2019-07-26,JAE Bee Commmunity.csv,text/csv,4000,163
 10.13012/B2IDB-0016089_V2,2019-07-26,JAE Plant Community.csv,text/csv,4340,161
@@ -1728,7 +1716,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-1401121_V1,2019-07-11,InvPlantData_S.csv,text/csv,13720,172
 10.13012/B2IDB-1401121_V1,2019-07-11,BlowdownsIllinois.gdb.zip,application/zip,71345,175
 10.13012/B2IDB-4447017_V1,2019-06-03,vv2-y.fa,text/plain,3431250,148
-10.13012/B2IDB-4447017_V1,2019-06-03,abyss-assemblies.tar.gz,application/x-gzip,524615585,193
+10.13012/B2IDB-4447017_V1,2019-06-03,abyss-assemblies.tar.gz,application/x-gzip,524615585,194
 10.13012/B2IDB-4447017_V1,2019-06-03,RedFoxYChromosomeReadMe.rtf,application/rtf,8264,199
 10.13012/B2IDB-4447017_V1,2019-06-03,RedFoxYGenes-BLAST.tar.gz,application/x-gzip,9531106,194
 10.13012/B2IDB-0569467_V1,2018-11-19,scripts.zip,application/zip,710358,124
@@ -1816,7 +1804,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V1,2017-06-28,MS002_Pre_Vel_R_Upper_Leg.TXT,text/plain,19211,128
 10.13012/B2IDB-6858418_V1,2017-06-28,MS008_Pre_Vel_R_Elbow.TXT,text/plain,4749,99
 10.13012/B2IDB-6858418_V1,2017-06-28,MS002_Pre_Force_Forward.mat,application/octet-stream,1441904,236
-10.13012/B2IDB-6858418_V1,2017-06-28,MS003_Pre_Vel_L_Trochanter.TXT,text/plain,31241,126
+10.13012/B2IDB-6858418_V1,2017-06-28,MS003_Pre_Vel_L_Trochanter.TXT,text/plain,31241,127
 10.13012/B2IDB-6858418_V1,2017-06-28,MS004_Pre_Vel_R_Lower_Leg.TXT,text/plain,38296,106
 10.13012/B2IDB-6858418_V1,2017-06-28,MS004_Pre_Vel_R_Temple.TXT,text/plain,39052,130
 10.13012/B2IDB-6858418_V1,2017-06-28,MS002_Pre_Vel_L_Temple.TXT,text/plain,19224,118
@@ -2122,7 +2110,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V1,2017-06-28,MS008_Pre_Force_Forward.mat,application/octet-stream,317064,156
 10.13012/B2IDB-6858418_V1,2017-06-28,MS008_Post_Vel_L_Upper_Arm.TXT,text/plain,14865,112
 10.13012/B2IDB-6858418_V1,2017-06-28,MS008_Post_Vel_R_Hand.TXT,text/plain,15275,99
-10.13012/B2IDB-6858418_V1,2017-06-28,MS005_Pre_Vel_L_Toe.TXT,text/plain,16572,119
+10.13012/B2IDB-6858418_V1,2017-06-28,MS005_Pre_Vel_L_Toe.TXT,text/plain,16572,120
 10.13012/B2IDB-6858418_V1,2017-06-28,MS005_Pre_Vel_L_Knee.TXT,text/plain,17855,117
 10.13012/B2IDB-6858418_V1,2017-06-28,MS006_Pre_Vel_R_Knee.TXT,text/plain,26938,104
 10.13012/B2IDB-6858418_V1,2017-06-28,MS003_Post_Force_Right.mat,application/octet-stream,572856,174
@@ -2185,7 +2173,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6858418_V1,2017-06-28,MS006_Post_Vel_R_Knee.TXT,text/plain,26124,126
 10.13012/B2IDB-6858418_V1,2017-06-28,MS004_Post_Vel_R_Temple.TXT,text/plain,44425,129
 10.13012/B2IDB-6858418_V1,2017-06-28,MS006_Pre_Vel_R_Elbow.TXT,text/plain,27062,119
-10.13012/B2IDB-6858418_V1,2017-06-28,MS007_Post_Vel_L_Upper_Leg.TXT,text/plain,16088,131
+10.13012/B2IDB-6858418_V1,2017-06-28,MS007_Post_Vel_L_Upper_Leg.TXT,text/plain,16088,132
 10.13012/B2IDB-6858418_V1,2017-06-28,MS005_Post_Vel_L_Hand.TXT,text/plain,17712,112
 10.13012/B2IDB-6858418_V1,2017-06-28,MS004_Pre_Vel_L_Temple.TXT,text/plain,38982,107
 10.13012/B2IDB-6858418_V1,2017-06-28,MS001_Post_Vel_L_Lower_Leg.TXT,text/plain,18888,165
@@ -2208,43 +2196,43 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-3482175_V1,2020-04-22,WIFLfledge.csv,text/csv,11616,70
 10.13012/B2IDB-4623305_V1,2019-05-08,File3_-_Articles_With_PubMed_Identifiers.xlsx,application/vnd.ms-excel,2058279,451
 10.13012/B2IDB-6773581_V1,2019-05-08,File4_-_RCT_Tagger_Result.xlsx,application/vnd.ms-excel,8277179,387
-10.13012/B2IDB-1424746_V1,2018-07-29,tools.zip,application/zip,23917,301
-10.13012/B2IDB-1424746_V1,2018-07-29,paup-svdq-trees.tar.gz,application/x-gzip,4700250,290
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-10-10.tar.gz,application/x-gzip,553583880,291
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-16-19.tar.gz,application/x-gzip,1903773659,276
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-20-20.tar.gz,application/x-gzip,555514814,313
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-01-05.tar.gz,application/x-gzip,962194791,287
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-01-05.tar.gz,application/x-gzip,991275305,304
-10.13012/B2IDB-1424746_V1,2018-07-29,true-constraint-trees.tar.gz,application/x-gzip,1748690,275
-10.13012/B2IDB-1424746_V1,2018-07-29,README.txt,text/plain,3938,275
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-06-09.tar.gz,application/x-gzip,906173374,292
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-10-10.tar.gz,application/x-gzip,227824764,293
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-11-15.tar.gz,application/x-gzip,1112687004,308
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-01-05.tar.gz,application/x-gzip,1082038577,310
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-11-15.tar.gz,application/x-gzip,2266210720,308
-10.13012/B2IDB-1424746_V1,2018-07-29,raxml-caml-trees.tar.gz,application/x-gzip,1195957,276
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-10-10.tar.gz,application/x-gzip,321345821,290
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-100tax-500K-01-20.tar.gz,application/x-gzip,520240672,313
-10.13012/B2IDB-1424746_V1,2018-07-29,njmerge-supplementary-materials.pdf,application/pdf,239575,301
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-16-19.tar.gz,application/x-gzip,875122705,323
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-20-20.tar.gz,application/x-gzip,229400581,335
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-06-09.tar.gz,application/x-gzip,608176030,283
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-16-19.tar.gz,application/x-gzip,1144458039,314
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-11-15.tar.gz,application/x-gzip,1373465595,310
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-20-20.tar.gz,application/x-gzip,221058744,297
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-06-09.tar.gz,application/x-gzip,2064160437,319
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-01-05.tar.gz,application/x-gzip,2203747859,326
-10.13012/B2IDB-1424746_V1,2018-07-29,astral-trees.tar.gz,application/x-gzip,5947407,299
-10.13012/B2IDB-1424746_V1,2018-07-29,scripts.zip,application/zip,733790,243
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-06-09.tar.gz,application/x-gzip,737234523,322
-10.13012/B2IDB-1424746_V1,2018-07-29,data.zip,application/zip,4225322,250
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-10-10.tar.gz,application/x-gzip,214510556,303
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-11-15.tar.gz,application/x-gzip,1040157136,324
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-100tax-10M-01-20.tar.gz,application/x-gzip,569097510,316
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-16-19.tar.gz,application/x-gzip,834453766,316
-10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-20-20.tar.gz,application/x-gzip,203908043,315
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-100tax-10M-01-20.tar.gz,application/x-gzip,900352132,345
-10.13012/B2IDB-1424746_V1,2018-07-29,alignments-100tax-500K-01-20.tar.gz,application/x-gzip,452718050,326
+10.13012/B2IDB-1424746_V1,2018-07-29,tools.zip,application/zip,23917,302
+10.13012/B2IDB-1424746_V1,2018-07-29,paup-svdq-trees.tar.gz,application/x-gzip,4700250,291
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-10-10.tar.gz,application/x-gzip,553583880,292
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-16-19.tar.gz,application/x-gzip,1903773659,277
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-20-20.tar.gz,application/x-gzip,555514814,314
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-01-05.tar.gz,application/x-gzip,962194791,288
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-01-05.tar.gz,application/x-gzip,991275305,305
+10.13012/B2IDB-1424746_V1,2018-07-29,true-constraint-trees.tar.gz,application/x-gzip,1748690,276
+10.13012/B2IDB-1424746_V1,2018-07-29,README.txt,text/plain,3938,276
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-06-09.tar.gz,application/x-gzip,906173374,293
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-10-10.tar.gz,application/x-gzip,227824764,294
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-11-15.tar.gz,application/x-gzip,1112687004,309
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-01-05.tar.gz,application/x-gzip,1082038577,311
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-11-15.tar.gz,application/x-gzip,2266210720,309
+10.13012/B2IDB-1424746_V1,2018-07-29,raxml-caml-trees.tar.gz,application/x-gzip,1195957,277
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-10-10.tar.gz,application/x-gzip,321345821,291
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-100tax-500K-01-20.tar.gz,application/x-gzip,520240672,314
+10.13012/B2IDB-1424746_V1,2018-07-29,njmerge-supplementary-materials.pdf,application/pdf,239575,302
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-16-19.tar.gz,application/x-gzip,875122705,324
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-10M-20-20.tar.gz,application/x-gzip,229400581,336
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-06-09.tar.gz,application/x-gzip,608176030,284
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-16-19.tar.gz,application/x-gzip,1144458039,315
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-11-15.tar.gz,application/x-gzip,1373465595,311
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-500K-20-20.tar.gz,application/x-gzip,221058744,298
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-06-09.tar.gz,application/x-gzip,2064160437,320
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-1000tax-10M-01-05.tar.gz,application/x-gzip,2203747859,327
+10.13012/B2IDB-1424746_V1,2018-07-29,astral-trees.tar.gz,application/x-gzip,5947407,300
+10.13012/B2IDB-1424746_V1,2018-07-29,scripts.zip,application/zip,733790,244
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-06-09.tar.gz,application/x-gzip,737234523,323
+10.13012/B2IDB-1424746_V1,2018-07-29,data.zip,application/zip,4225322,251
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-10-10.tar.gz,application/x-gzip,214510556,304
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-11-15.tar.gz,application/x-gzip,1040157136,326
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-100tax-10M-01-20.tar.gz,application/x-gzip,569097510,317
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-16-19.tar.gz,application/x-gzip,834453766,317
+10.13012/B2IDB-1424746_V1,2018-07-29,gene-trees-1000tax-500K-20-20.tar.gz,application/x-gzip,203908043,316
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-100tax-10M-01-20.tar.gz,application/x-gzip,900352132,346
+10.13012/B2IDB-1424746_V1,2018-07-29,alignments-100tax-500K-01-20.tar.gz,application/x-gzip,452718050,327
 10.13012/B2IDB-4085385_V1,2019-05-01,CAMx_outputs_PM-NH4.zip,application/zip,801584446,147
 10.13012/B2IDB-4085385_V1,2019-05-01,CAMx_outputs_NH3.zip,application/zip,850821654,142
 10.13012/B2IDB-4085385_V1,2019-05-01,README.docx,application/msword,18335,150
@@ -2264,7 +2252,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5372808_V1,2019-05-16,Table1_organicmattersourcesoverseason.xlsx,application/vnd.ms-excel,13708,150
 10.13012/B2IDB-5372808_V1,2019-05-16,MetaDataforTable3.docx,application/msword,11834,157
 10.13012/B2IDB-5372808_V1,2019-05-16,MetaDataforTable1.docx,application/msword,11849,145
-10.13012/B2IDB-3352362_V1,2019-05-10,Pradhan2019data.RData,application/x-gzip,235924883,150
+10.13012/B2IDB-3352362_V1,2019-05-10,Pradhan2019data.RData,application/x-gzip,235924883,151
 10.13012/B2IDB-3292716_V1,2019-05-07,DataforRepository_ZoopProductionComparison.csv,text/csv,769,130
 10.13012/B2IDB-3292716_V1,2019-05-07,MetaData_MesocosmExperiment_TemporalChanges.docx,application/msword,12116,135
 10.13012/B2IDB-3292716_V1,2019-05-07,DataforRepository_MesocosmExperiment_TemporalChanges.csv,text/csv,8149,130
@@ -2352,7 +2340,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0569467_V2,2019-05-16,gene-trees-logdet-1000tax-10M-11-15.tar.gz,application/x-gzip,934873042,155
 10.13012/B2IDB-0569467_V2,2019-05-16,gene-trees-logdet-1000tax-10M-01-05.tar.gz,application/x-gzip,908884096,154
 10.13012/B2IDB-0569467_V2,2019-05-16,gene-trees-logdet-1000tax-10M-20-20.tar.gz,application/x-gzip,193137845,142
-10.13012/B2IDB-0569467_V2,2019-05-16,scripts.zip,application/zip,737095,144
+10.13012/B2IDB-0569467_V2,2019-05-16,scripts.zip,application/zip,737095,145
 10.13012/B2IDB-0569467_V2,2019-05-16,true-constraint-trees-logdet.tar.gz,application/x-gzip,1865041,156
 10.13012/B2IDB-0569467_V2,2019-05-16,astral64-trees.tar.gz,application/x-gzip,436719,145
 10.13012/B2IDB-0569467_V2,2019-05-16,raxml-caml-trees-logdet.tar.gz,application/x-gzip,837407,144
@@ -2412,8 +2400,8 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0214000_V1,2019-05-22,isolated_analysis.rar,application/x-rar-compressed,812770187,149
 10.13012/B2IDB-0214000_V1,2019-05-22,isolated_raw_data.part01.rar,application/x-rar-compressed,4293918720,154
 10.13012/B2IDB-9797270_V1,2019-08-13,README.txt,text/plain,1334,128
-10.13012/B2IDB-9797270_V1,2019-08-13,fruit_dove_concatenated_alignment.nex,text/plain,333188,130
-10.13012/B2IDB-9797270_V1,2019-08-13,fruit_dove_mrbayes_consensus.tre,text/plain,40751,125
+10.13012/B2IDB-9797270_V1,2019-08-13,fruit_dove_concatenated_alignment.nex,text/plain,333188,131
+10.13012/B2IDB-9797270_V1,2019-08-13,fruit_dove_mrbayes_consensus.tre,text/plain,40751,126
 10.13012/B2IDB-9797270_V1,2019-08-13,fruit_dove_plus_cibois_data_concatenated_alignment.nex,text/plain,892901,131
 10.13012/B2IDB-9797270_V1,2019-08-13,fruit_dove_beast_mcc.tre,text/plain,62281,124
 10.13012/B2IDB-9797270_V1,2019-08-13,fruit_dove_beast_input.xml,text/xml,377231,129
@@ -2439,7 +2427,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-2211060_V1,2019-12-10,Columbicola_macrourae_edge_starting_seeds.zip,application/zip,6466,76
 10.13012/B2IDB-2211060_V1,2019-12-10,Columbicola_passerinae1_edge_starting_seeds.zip,application/zip,6386,81
 10.13012/B2IDB-2211060_V1,2019-12-10,Comac3_atram_mitobim.fasta,text/plain,22542,86
-10.13012/B2IDB-2211060_V1,2019-12-10,readme.txt,text/plain,3129,95
+10.13012/B2IDB-2211060_V1,2019-12-10,readme.txt,text/plain,3129,96
 10.13012/B2IDB-2211060_V1,2019-12-10,Columbicola_columbae_mt_sequences.fasta,text/plain,30766,81
 10.13012/B2IDB-2211060_V1,2019-12-10,pdhum_contigs.fasta,text/plain,20216,82
 10.13012/B2IDB-2211060_V1,2019-12-10,Columbicola_passerinae1_mt_sequences.fasta,text/plain,34701,84
@@ -2463,7 +2451,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-2774261_V1,2020-06-26,README.pdf,application/pdf,58887,52
 10.13012/B2IDB-6925722_V1,2020-06-06,handPollinations.csv,text/csv,379,58
 10.13012/B2IDB-6925722_V1,2020-06-06,flowerFates_correlates_b.csv,text/csv,40557,61
-10.13012/B2IDB-6925722_V1,2020-06-06,maleFlowerCount.csv,text/csv,449,58
+10.13012/B2IDB-6925722_V1,2020-06-06,maleFlowerCount.csv,text/csv,449,59
 10.13012/B2IDB-6925722_V1,2020-06-06,readme.txt,text/plain,7812,66
 10.13012/B2IDB-6925722_V1,2020-06-06,flowersPerPlant.csv,text/csv,11508,62
 10.13012/B2IDB-6925722_V1,2020-06-06,hybridHyp_cscan.csv,text/csv,1485,60
@@ -2566,7 +2554,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0934773_V1,2019-09-17,ud_pos_bilstm_residual_l2_0_lr_1e-3.zip,application/zip,3171573963,56
 10.13012/B2IDB-0934773_V1,2019-09-17,neel_ner_ssa_l2_0_lr_1e-3.zip,application/zip,3858738779,63
 10.13012/B2IDB-0934773_V1,2019-09-17,ptb_pos_bilstm_residual_l2_0_lr_1e-3.zip,application/zip,3878050045,56
-10.13012/B2IDB-0934773_V1,2019-09-17,yodie_ner_ssa_l2_0_lr_1e-3.zip,application/zip,3859027058,53
+10.13012/B2IDB-0934773_V1,2019-09-17,yodie_ner_ssa_l2_0_lr_1e-3.zip,application/zip,3859027058,54
 10.13012/B2IDB-0934773_V1,2019-09-17,ritter_ccg_bilstm_residual_l2_0_lr_1e-3.zip,application/zip,3879149185,51
 10.13012/B2IDB-0934773_V1,2019-09-17,all_multitask_stacked_bilstm_residual_dim_50_l2_0_lr_1e-3_no_neel.zip,application/zip,3872492800,83
 10.13012/B2IDB-0934773_V1,2019-09-17,all_multitask_stacked_ssa_l2_0_lr_1e-3_no_neel.zip,application/zip,3949794582,75
@@ -2638,7 +2626,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-7090706_V1,2019-09-25,lmc_cyc4_data.zip,application/zip,3412590571,119
 10.13012/B2IDB-7090706_V1,2019-09-25,README_data.txt,text/plain,2499,138
 10.13012/B2IDB-7090706_V1,2019-09-25,lmc_cyc4_anal.zip,application/zip,1194036540,113
-10.13012/B2IDB-7090706_V1,2019-09-25,README_anal.txt,text/plain,1131,119
+10.13012/B2IDB-7090706_V1,2019-09-25,README_anal.txt,text/plain,1131,120
 10.13012/B2IDB-7364919_V1,2020-07-01,data.zip,application/zip,13511191048,42
 10.13012/B2IDB-1917934_V1,2019-09-17,semeval_sentiment_bilstm_l2_0_lr_1e-3.zip,application/zip,1751746585,119
 10.13012/B2IDB-1917934_V1,2019-09-17,waseem_abusive_cnn_l2_0_lr_1e-3.zip,application/zip,3152804714,119
@@ -2679,7 +2667,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-1917934_V1,2019-09-17,politics_sentiment_bilstm.zip,application/zip,2804145572,117
 10.13012/B2IDB-1917934_V1,2019-09-17,founta_abusive_cnn_l2_0_lr_1e-3.zip,application/zip,2451853338,120
 10.13012/B2IDB-1917934_V1,2019-09-17,other_sentiment_bilstm.zip,application/zip,2102526230,125
-10.13012/B2IDB-2626814_V1,2019-11-11,tools.zip,application/zip,26897,97
+10.13012/B2IDB-2626814_V1,2019-11-11,tools.zip,application/zip,26897,98
 10.13012/B2IDB-2626814_V1,2019-11-11,species-trees-astral-fungi.tar.gz,application/x-gzip,1227049,94
 10.13012/B2IDB-2626814_V1,2019-11-11,species-trees-duptree-fungi.tar.gz,application/x-gzip,7632290,97
 10.13012/B2IDB-2626814_V1,2019-11-11,gene-trees-fungi.tar.gz,application/x-gzip,134513771,90
@@ -2720,7 +2708,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1964.nc,"application/netcdf, application/x-netcdf",17636076,163
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1973.nc,"application/netcdf, application/x-netcdf",17636076,163
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1970.nc,"application/netcdf, application/x-netcdf",17636076,159
-10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1978.nc,"application/netcdf, application/x-netcdf",17636076,160
+10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1978.nc,"application/netcdf, application/x-netcdf",17636076,161
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1986.nc,"application/netcdf, application/x-netcdf",17636076,169
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1983.nc,"application/netcdf, application/x-netcdf",17636076,157
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1975.nc,"application/netcdf, application/x-netcdf",17636076,160
@@ -2734,15 +2722,15 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1992.nc,"application/netcdf, application/x-netcdf",17636076,160
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1982.nc,"application/netcdf, application/x-netcdf",17636076,153
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1997.nc,"application/netcdf, application/x-netcdf",17636076,160
-10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1985.nc,"application/netcdf, application/x-netcdf",17636076,161
+10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1985.nc,"application/netcdf, application/x-netcdf",17636076,162
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1994.nc,"application/netcdf, application/x-netcdf",17636076,164
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1993.nc,"application/netcdf, application/x-netcdf",17636076,166
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2007.nc,"application/netcdf, application/x-netcdf",17636076,149
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1998.nc,"application/netcdf, application/x-netcdf",17636076,171
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1995.nc,"application/netcdf, application/x-netcdf",17636076,159
-10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1999.nc,"application/netcdf, application/x-netcdf",17636076,161
+10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1999.nc,"application/netcdf, application/x-netcdf",17636076,162
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1991.nc,"application/netcdf, application/x-netcdf",17636076,167
-10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1990.nc,"application/netcdf, application/x-netcdf",17636076,157
+10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1990.nc,"application/netcdf, application/x-netcdf",17636076,158
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2004.nc,"application/netcdf, application/x-netcdf",17636076,152
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2009.nc,"application/netcdf, application/x-netcdf",17636076,130
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2002.nc,"application/netcdf, application/x-netcdf",17636076,145
@@ -2750,11 +2738,11 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2006.nc,"application/netcdf, application/x-netcdf",17636076,146
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2005.nc,"application/netcdf, application/x-netcdf",17636076,149
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2001.nc,"application/netcdf, application/x-netcdf",17636076,164
-10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1996.nc,"application/netcdf, application/x-netcdf",17636076,174
+10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_1996.nc,"application/netcdf, application/x-netcdf",17636076,175
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2008.nc,"application/netcdf, application/x-netcdf",17636076,134
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2013.nc,"application/netcdf, application/x-netcdf",17636076,128
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2014.nc,"application/netcdf, application/x-netcdf",17636076,144
-10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1965.nc,"application/netcdf, application/x-netcdf",17636108,115
+10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1965.nc,"application/netcdf, application/x-netcdf",17636108,116
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1961.nc,"application/netcdf, application/x-netcdf",17636108,123
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1963.nc,"application/netcdf, application/x-netcdf",17636108,116
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1979.nc,"application/netcdf, application/x-netcdf",17636108,119
@@ -2814,7 +2802,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_mean_2010.nc,"application/netcdf, application/x-netcdf",17636076,129
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1969.nc,"application/netcdf, application/x-netcdf",17636108,120
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1966.nc,"application/netcdf, application/x-netcdf",17636108,123
-10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1964.nc,"application/netcdf, application/x-netcdf",17636108,117
+10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1964.nc,"application/netcdf, application/x-netcdf",17636108,118
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1974.nc,"application/netcdf, application/x-netcdf",17636108,117
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1976.nc,"application/netcdf, application/x-netcdf",17636108,122
 10.13012/B2IDB-7439710_V1,2019-09-01,pcam_sd_1970.nc,"application/netcdf, application/x-netcdf",17636108,117
@@ -2857,9 +2845,10 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9720784_V1,2020-12-01,Dataset_Inagaki_scavenger guild.xlsx,application/vnd.ms-excel,24073,21
 10.13012/B2IDB-0946028_V2,2021-03-08,DataAndCodeForPublic_v2.7z,application/x-7z-compressed,2275415,10
 10.13012/B2IDB-0946028_V2,2021-03-08,mickalide_et_al_README.txt,text/plain,4023,5
+10.13012/B2IDB-2556310_V1,2021-05-07,mapaffil2018.tsv.gz,"",2698506484,0
 10.13012/B2IDB-5961181_V2,2020-05-20,keei_four_year_college_entrepreneurship_education_2015_documentation.xlsx,application/vnd.ms-excel,26024,63
 10.13012/B2IDB-5961181_V2,2020-05-20,keei_four_year_college_entrepreneurship_education_2015.csv,text/csv,538267,60
-10.13012/B2IDB-2921318_V1,2019-10-05,HEADER,text/plain,834,147
+10.13012/B2IDB-2921318_V1,2019-10-05,HEADER,text/plain,834,148
 10.13012/B2IDB-2921318_V1,2019-10-05,README.md,text/plain,4377,261
 10.13012/B2IDB-2921318_V1,2019-10-05,dataset.tar.gz,application/x-gzip,149889685291,248
 10.13012/B2IDB-2921318_V1,2019-10-05,License.txt,text/plain,1603,141
@@ -2911,7 +2900,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9453481_V1,2019-12-20,Rca3CanopySoy_CloudyWholeDay.txt,text/plain,64,118
 10.13012/B2IDB-9453481_V1,2019-12-20,Rca1CanopySoy_Cloudy10min.txt,text/plain,4446,114
 10.13012/B2IDB-9453481_V1,2019-12-20,Read me.docx,application/msword,21940,141
-10.13012/B2IDB-1408573_V1,2020-02-12,audit_dataset.zip,application/zip,121601199,88
+10.13012/B2IDB-1408573_V1,2020-02-12,audit_dataset.zip,application/zip,121601199,89
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-dnn-easy-final_trainsize15000_fold4.hdf5,application/x-hdf,835000,63
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-dnn-easy-final_trainsize15000_fold3.hdf5,application/x-hdf,835000,68
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-dnn-easy-final_trainsize20000_fold0.hdf5,application/x-hdf,835000,62
@@ -2971,7 +2960,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-daednn-easy-final_trainsize5000_fold4.hdf5,application/x-hdf,834984,64
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-daednn-full-final_trainsize100_fold1.hdf5,application/x-hdf,6507432,62
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-daednn-full-final_trainsize1000_fold2.hdf5,application/x-hdf,6507432,63
-10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-daednn-full-final_trainsize500_fold0.hdf5,application/x-hdf,6507432,65
+10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-daednn-full-final_trainsize500_fold0.hdf5,application/x-hdf,6507432,66
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-daednn-full-final_trainsize500_fold4.hdf5,application/x-hdf,6507432,63
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-dnn-full-final_trainsize50_fold0.hdf5,application/x-hdf,6507448,64
 10.13012/B2IDB-4860767_V1,2019-12-12,learningcurve-caednn-full-final_trainsize100_fold1.hdf5,application/x-hdf,6596384,65
@@ -3356,7 +3345,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-2626814_V2,2020-01-22,tools.zip,application/zip,26897,88
 10.13012/B2IDB-6834324_V1,2020-09-27,GSI_Survey1_Bar_Charts.R,text/plain,3617,18
 10.13012/B2IDB-6834324_V1,2020-09-27,GSI_Survey1_Grouped_Bar_Charts.R,text/plain,3185,20
-10.13012/B2IDB-3331845_V1,2020-02-23,2010-2019 SG to specific not mentioned FG.csv,text/csv,136442,105
+10.13012/B2IDB-3331845_V1,2020-02-23,2010-2019 SG to specific not mentioned FG.csv,text/csv,136442,106
 10.13012/B2IDB-3331845_V1,2020-02-23,2010-2019 SG to specific not mentioned FG.xlsx,application/vnd.ms-excel,72642,126
 10.13012/B2IDB-7290912_V1,2020-02-05,Delt_morph_char.txt,text/plain,11434,128
 10.13012/B2IDB-7290912_V1,2020-02-05,Delt_Comb.NEX,text/plain,616720,118
@@ -3395,31 +3384,31 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-1530066_V1,2020-04-20,1_COIBA_ITS_1693.fst,text/plain,437756,68
 10.13012/B2IDB-1530066_V1,2020-04-20,3_Ferrer_et_al_allOTUs_dataset.csv,text/csv,786552,72
 10.13012/B2IDB-1530066_V1,2020-04-20,AFerrer_et_al_README.tsv,text/plain,6681,76
-10.13012/B2IDB-7525764_V2,2020-01-27,Missouri.txt,text/plain,339841,131
-10.13012/B2IDB-7525764_V2,2020-01-27,Parana.txt,text/plain,3050187,135
-10.13012/B2IDB-7525764_V2,2020-01-27,Mississippi.txt,text/plain,1954967,134
-10.13012/B2IDB-7525764_V2,2020-01-27,ParanaSP.txt,text/plain,10192996,147
-10.13012/B2IDB-7525764_V2,2020-01-27,Amazon.txt,text/plain,1324927,139
-10.13012/B2IDB-7525764_V2,2020-01-27,Mekong.txt,text/plain,4123595,134
-10.13012/B2IDB-7525764_V2,2020-01-27,MississippiSP.txt,text/plain,6486727,131
-10.13012/B2IDB-7525764_V2,2020-01-27,MekongSP.txt,text/plain,23030198,124
-10.13012/B2IDB-7525764_V2,2020-01-27,readme.txt,text/plain,775,127
-10.13012/B2IDB-7525764_V2,2020-01-27,MissouriSP.txt,text/plain,1268225,131
-10.13012/B2IDB-7525764_V2,2020-01-27,Waal.txt,text/plain,8670877,130
-10.13012/B2IDB-7525764_V2,2020-01-27,WaalSP.txt,text/plain,30468375,129
-10.13012/B2IDB-7525764_V2,2020-01-27,AmazonSP.txt,text/plain,9778707,136
+10.13012/B2IDB-7525764_V2,2020-01-27,Missouri.txt,text/plain,339841,133
+10.13012/B2IDB-7525764_V2,2020-01-27,Parana.txt,text/plain,3050187,136
+10.13012/B2IDB-7525764_V2,2020-01-27,Mississippi.txt,text/plain,1954967,135
+10.13012/B2IDB-7525764_V2,2020-01-27,ParanaSP.txt,text/plain,10192996,148
+10.13012/B2IDB-7525764_V2,2020-01-27,Amazon.txt,text/plain,1324927,140
+10.13012/B2IDB-7525764_V2,2020-01-27,Mekong.txt,text/plain,4123595,135
+10.13012/B2IDB-7525764_V2,2020-01-27,MississippiSP.txt,text/plain,6486727,132
+10.13012/B2IDB-7525764_V2,2020-01-27,MekongSP.txt,text/plain,23030198,125
+10.13012/B2IDB-7525764_V2,2020-01-27,readme.txt,text/plain,775,128
+10.13012/B2IDB-7525764_V2,2020-01-27,MissouriSP.txt,text/plain,1268225,132
+10.13012/B2IDB-7525764_V2,2020-01-27,Waal.txt,text/plain,8670877,132
+10.13012/B2IDB-7525764_V2,2020-01-27,WaalSP.txt,text/plain,30468375,130
+10.13012/B2IDB-7525764_V2,2020-01-27,AmazonSP.txt,text/plain,9778707,137
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_SSTNOx10.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28727561440,62
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_SSTNOx15.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28682439564,61
-10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_SSTNOx5.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28682439544,72
+10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_SSTNOx5.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28682439544,73
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST13_15km.004.cam.h0.20503yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28681775836,71
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST15_17km.005.cam.h0.20503yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28681775836,67
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST17_19km.004.cam.h0.20503yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28681775836,69
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST18_20km.004.cam.h0.2050yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28726897720,72
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST21_23km.004.cam.cam.h0.2050yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28681775824,72
 10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_18_20km_einox20_1.9x2.5.nc,"application/netcdf, application/x-netcdf",41143892,70
-10.13012/B2IDB-9081595_V1,2020-06-03,NOX_2000_2100_500HSCT_NOXEI_15w_1.9x2.5.nc,"application/netcdf, application/x-netcdf",26545572,70
-10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_13_15km_1.9x2.5.nc,"application/netcdf, application/x-netcdf",30526932,70
-10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_15_17km_1.9x2.5.nc,"application/netcdf, application/x-netcdf",30526932,73
+10.13012/B2IDB-9081595_V1,2020-06-03,NOX_2000_2100_500HSCT_NOXEI_15w_1.9x2.5.nc,"application/netcdf, application/x-netcdf",26545572,71
+10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_13_15km_1.9x2.5.nc,"application/netcdf, application/x-netcdf",30526932,71
+10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_15_17km_1.9x2.5.nc,"application/netcdf, application/x-netcdf",30526932,74
 10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_17_19km_1.9x2.5.nc,"application/netcdf, application/x-netcdf",30526932,72
 10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_19_21km_1.9x2.5.nc,"application/netcdf, application/x-netcdf",30526932,69
 10.13012/B2IDB-9081595_V1,2020-06-03,H2O_2000_2100_500HSCT_NOXEI_10w_1.9x2.5.nc,"application/netcdf, application/x-netcdf",26545572,66
@@ -3433,7 +3422,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_SST1000_NOx5.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28727561520,70
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_SSTH2Oonly.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28683103112,65
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_SSTNOx15_noH2O.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28637981312,69
-10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_Subsonic.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28682439564,70
+10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2015_Subsonic.004u.cam.h0.20153yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28682439564,71
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST14_16km.004.cam.h0.20503yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28726897736,69
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST16_18km.004.cam.h0.2050yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28726897720,67
 10.13012/B2IDB-9081595_V1,2020-06-03,f.e11.FWTREFC2SD.f19_f19.ccmi32_2050_SST19_21km.004.cam.h0.20503yrmean.ANN.nc,"application/netcdf, application/x-netcdf",28681775836,70
@@ -3473,7 +3462,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-3331845_V2,2020-09-02,2G-possible-misinformation-analyzed.xlsx,application/vnd.ms-excel,24711,35
 10.13012/B2IDB-1403534_V2,2020-03-03,nodes.xlsx,application/vnd.ms-excel,267139,187
 10.13012/B2IDB-1403534_V2,2020-03-03,enriched_final_Fnodes.csv,text/csv,54195,118
-10.13012/B2IDB-1403534_V2,2020-03-03,nodes.csv,text/csv,408687,135
+10.13012/B2IDB-1403534_V2,2020-03-03,nodes.csv,text/csv,408687,136
 10.13012/B2IDB-1403534_V2,2020-03-03,enriched_final_Fnodes.xlsx,application/vnd.ms-excel,81654,111
 10.13012/B2IDB-1403534_V2,2020-03-03,edges.csv,text/csv,43032,114
 10.13012/B2IDB-1403534_V2,2020-03-03,NETWORKv2README.txt,text/plain,21869,101
@@ -3507,7 +3496,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9059263_V1,2020-05-31,cov30_sample3.bam,application/x-gzip,1000053122,69
 10.13012/B2IDB-9059263_V1,2020-05-31,cov60_normal.bam,application/x-gzip,2042814318,72
 10.13012/B2IDB-9059263_V1,2020-05-31,cov60_sample1.bam,application/x-gzip,1967621525,69
-10.13012/B2IDB-9059263_V1,2020-05-31,cov60_sample2.bam,application/x-gzip,1964621388,69
+10.13012/B2IDB-9059263_V1,2020-05-31,cov60_sample2.bam,application/x-gzip,1964621388,70
 10.13012/B2IDB-9059263_V1,2020-05-31,cov30_sample1.bam,application/x-gzip,998851373,66
 10.13012/B2IDB-9059263_V1,2020-05-31,cov30_normal.bam,application/x-gzip,1038451988,70
 10.13012/B2IDB-9059263_V1,2020-05-31,cov60_sample3.bam,application/x-gzip,1965898160,68
@@ -3547,15 +3536,15 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4350211_V1,2021-04-06,CO_Risk_Assessment_MODFLOW_Model_Release.zip,application/zip,5020562609,8
 10.13012/B2IDB-4350211_V1,2021-04-06,CO_Risk_Assessment_GIS_Data_Release_Metadata.zip,application/zip,33374,8
 10.13012/B2IDB-4350211_V1,2021-04-06,CO_Risk_Assessment_GIS_Data_Release.zip,application/zip,2503990,5
-10.13012/B2IDB-0647142_V3,2020-05-04,MetaDataBLN-SWB_1979-2019.csv,text/csv,500561740,195
+10.13012/B2IDB-0647142_V3,2020-05-04,MetaDataBLN-SWB_1979-2019.csv,text/csv,500561740,196
 10.13012/B2IDB-0647142_V3,2020-05-04,PhoenixBLN-SWB_1979-2019.csv,text/csv,701974432,225
 10.13012/B2IDB-0647142_V3,2020-05-04,Cline Center Historical Phoenix Event Data - Variable Descriptions - v1.3.0.pdf,application/pdf,388551,238
-10.13012/B2IDB-0647142_V3,2020-05-04,actor_codes.csv,text/csv,7516,192
+10.13012/B2IDB-0647142_V3,2020-05-04,actor_codes.csv,text/csv,7516,193
 10.13012/B2IDB-0647142_V3,2020-05-04,README.md,text/plain,5582,186
 10.13012/B2IDB-0647142_V3,2020-05-04,PhoenixFBIS_1995-2004.csv,text/csv,143287438,184
 10.13012/B2IDB-0647142_V3,2020-05-04,PhoenixBLN-NYT_1980-2018.csv,text/csv,234159578,223
 10.13012/B2IDB-0647142_V3,2020-05-04,MetaDataWSJ_1945-2006.csv,text/csv,36807300,225
-10.13012/B2IDB-0647142_V3,2020-05-04,PhoenixWSJ_1945-2006.csv,text/csv,87846147,201
+10.13012/B2IDB-0647142_V3,2020-05-04,PhoenixWSJ_1945-2006.csv,text/csv,87846147,202
 10.13012/B2IDB-0647142_V3,2020-05-04,MetaDataNYT_1945-2005.csv,text/csv,85770469,193
 10.13012/B2IDB-0647142_V3,2020-05-04,MetaDataFBIS_1995-2004.csv,text/csv,57312760,191
 10.13012/B2IDB-0647142_V3,2020-05-04,MetaDataBLN-NYT_1980-2018.csv,text/csv,165489649,275
@@ -3578,7 +3567,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4484338_V1,2018-11-18,run_4.zip,application/zip,3141608777,199
 10.13012/B2IDB-4484338_V1,2018-11-18,run_2.zip,application/zip,5273578708,225
 10.13012/B2IDB-4484338_V1,2018-11-18,time_series.csv,text/csv,57603,232
-10.13012/B2IDB-4484338_V1,2018-11-18,run_3.zip,application/zip,4019063648,214
+10.13012/B2IDB-4484338_V1,2018-11-18,run_3.zip,application/zip,4019063648,215
 10.13012/B2IDB-4484338_V1,2018-11-18,run_1.zip,application/zip,3478603903,208
 10.13012/B2IDB-4484338_V1,2018-11-18,readme.txt,text/plain,1634,228
 10.13012/B2IDB-4484338_V1,2018-11-18,control_test.zip,application/zip,4714971373,227
@@ -3998,7 +3987,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0946771_V1,2020-10-13,Dataset_description.docx,application/msword,16463,21
 10.13012/B2IDB-0946771_V1,2020-10-13,For_Databank.xlsx,application/vnd.ms-excel,104652,18
 10.13012/B2IDB-4585244_V1,2021-01-04,GFDL-CM3_urban.zip,application/zip,291009452,22
-10.13012/B2IDB-4585244_V1,2021-01-04,IPSL-CM5A-MR_urban.zip,application/zip,291098108,21
+10.13012/B2IDB-4585244_V1,2021-01-04,IPSL-CM5A-MR_urban.zip,application/zip,291098108,22
 10.13012/B2IDB-4585244_V1,2021-01-04,ACCESS1-0_urban.zip,application/zip,291004478,34
 10.13012/B2IDB-4585244_V1,2021-01-04,NorESM1-M_urban.zip,application/zip,291079322,23
 10.13012/B2IDB-4585244_V1,2021-01-04,HadGEM2-CC_urban.zip,application/zip,291124203,24
@@ -4007,7 +3996,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4585244_V1,2021-01-04,CNRM-CM5_urban.zip,application/zip,291252262,23
 10.13012/B2IDB-4585244_V1,2021-01-04,ACCESS1-3_urban.zip,application/zip,291134911,26
 10.13012/B2IDB-4585244_V1,2021-01-04,GISS-E2-R-CC_urban.zip,application/zip,291246586,24
-10.13012/B2IDB-4585244_V1,2021-01-04,MIROC5_urban.zip,application/zip,291336199,24
+10.13012/B2IDB-4585244_V1,2021-01-04,MIROC5_urban.zip,application/zip,291336199,25
 10.13012/B2IDB-4585244_V1,2021-01-04,MRI-CGCM3_urban.zip,application/zip,291328933,23
 10.13012/B2IDB-4585244_V1,2021-01-04,GFDL-ESM2G_urban.zip,application/zip,291317284,24
 10.13012/B2IDB-4585244_V1,2021-01-04,GFDL-ESM2M_urban.zip,application/zip,291354309,24
@@ -4096,8 +4085,8 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-6081616_V1,2020-12-31,AA_concat_charsets.txt,"",48252,16
 10.13012/B2IDB-6081616_V1,2020-12-31,ASTRAL_NT_Complete_gene_trees.tre,"",10567383,13
 10.13012/B2IDB-6081616_V1,2020-12-31,AA_concat.fasta,"",46156205,15
-10.13012/B2IDB-6081616_V1,2020-12-31,ASTRAL_NT12_gene_trees.tre,"",9991761,13
-10.13012/B2IDB-4623305_V2,2020-10-26,File3_Articles_With_PubMed_Identifiers_2020-10-23.xlsx,"",1961223,93
+10.13012/B2IDB-6081616_V1,2020-12-31,ASTRAL_NT12_gene_trees.tre,"",9991761,14
+10.13012/B2IDB-4623305_V2,2020-10-26,File3_Articles_With_PubMed_Identifiers_2020-10-23.xlsx,"",1961223,94
 10.13012/B2IDB-7110302_V1,2020-10-27,Table01-02-Lundstrom.docx,"",17404,19
 10.13012/B2IDB-6482573_V1,2020-11-14,Hoover and Schelsky temp and cowbird data for Frontiers Manuscript ID 580725.csv,text/csv,369,16
 10.13012/B2IDB-6482573_V1,2020-11-14,Hoover and Schelsky temp and arrival and first egg data for Frontiers Manuscript ID 580725.csv,text/csv,547,18
@@ -4109,7 +4098,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5649852_V2,2020-12-16,README.txt,text/plain,4527,32
 10.13012/B2IDB-5649852_V2,2020-12-16,GNI_QuickReferenceTables.pdf,application/pdf,112600,28
 10.13012/B2IDB-5649852_V2,2020-12-16,Archer_QuickStartGuide.pdf,application/pdf,318608,57
-10.13012/B2IDB-5649852_V2,2020-12-16,Archer_UserManual.pdf,application/pdf,1790791,54
+10.13012/B2IDB-5649852_V2,2020-12-16,Archer_UserManual.pdf,application/pdf,1790791,55
 10.13012/B2IDB-5649852_V2,2020-12-16,GNI_Codebook.pdf,application/pdf,485344,34
 10.13012/B2IDB-5649852_V2,2020-12-16,gni_random_sample.tsv,text/plain,15933642,30
 10.13012/B2IDB-7562109_V1,2020-12-15,BEPAM_E_model_README.txt,text/plain,5281,24
@@ -4167,7 +4156,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-9209722_V1,2020-11-25,Copperheads_MaleCombat_BeaufortCo_NorthCarolina_21Oct2020_ByLouiseBarker.MOV,"",247459936,17
 10.13012/B2IDB-7863273_V1,2021-04-30,25tax-simulations.zip,application/zip,179944,5
 10.13012/B2IDB-7863273_V1,2021-04-30,500M1-P.tar.gz,application/x-gzip,6890968,1
-10.13012/B2IDB-7863273_V1,2021-04-30,Results.zip,application/zip,31430861387,4
+10.13012/B2IDB-7863273_V1,2021-04-30,Results.zip,application/zip,31430861387,5
 10.13012/B2IDB-7863273_V1,2021-04-30,README.md,text/plain,3088,1
 10.13012/B2IDB-0897344_V1,2021-02-10,Microclimate_Raster_Data.zip,application/zip,27037749140,9
 10.13012/B2IDB-0897344_V1,2021-02-10,Readme_Metadata_Microclimate_Raster_Data.txt,text/plain,3557,10
@@ -4189,19 +4178,19 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-3548139_V1,2021-04-08,Individual_Data.tar,application/x-tar,53157857280,8
 10.13012/B2IDB-3548139_V1,2021-04-08,README_Data.txt,text/plain,14714,8
 10.13012/B2IDB-3548139_V1,2021-04-08,license.txt,text/plain,16025,7
-10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S11_data.zip,application/zip,163924725,19
+10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S11_data.zip,application/zip,163924725,20
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S5_data.zip,application/zip,187847453,25
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S9_data.zip,application/zip,186428741,25
-10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S10_data.zip,application/zip,171602233,18
+10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S10_data.zip,application/zip,171602233,19
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S3_data.zip,application/zip,187691939,19
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S2_data.zip,application/zip,182598137,23
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S1_data.zip,application/zip,189021870,18
-10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S4_data.zip,application/zip,187494776,25
+10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S4_data.zip,application/zip,187494776,26
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S12_data.zip,application/zip,63026300,20
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S13_data.zip,application/zip,318566127,22
-10.13012/B2IDB-3968226_V3,2021-01-27,movies_wmv_format.zip,application/zip,2382169026,25
+10.13012/B2IDB-3968226_V3,2021-01-27,movies_wmv_format.zip,application/zip,2382169026,26
 10.13012/B2IDB-3968226_V3,2021-01-27,movies_mp4_format.zip,application/zip,2807697389,27
-10.13012/B2IDB-3968226_V3,2021-01-27,data_readme.txt,text/plain,6205,22
+10.13012/B2IDB-3968226_V3,2021-01-27,data_readme.txt,text/plain,6205,23
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S6_data.zip,application/zip,157759197,19
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S7_data.zip,application/zip,171305633,24
 10.13012/B2IDB-3968226_V3,2021-01-27,MOVIE_S8_data.zip,application/zip,177563836,23
@@ -4220,7 +4209,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0299659_V1,2021-04-18,STKDE Paper Notebook.zip,application/zip,312443972,7
 10.13012/B2IDB-9651987_V2,2021-01-08,Source Document v2.0.0.pdf,application/pdf,1219500,59
 10.13012/B2IDB-9651987_V2,2021-01-08,README.md,text/plain,4363,55
-10.13012/B2IDB-9651987_V2,2021-01-08,CDP v.2.0.1 Codebook.pdf,application/pdf,240144,243
+10.13012/B2IDB-9651987_V2,2021-01-08,CDP v.2.0.1 Codebook.pdf,application/pdf,240144,244
 10.13012/B2IDB-9651987_V2,2021-01-08,Coup_Data_v2.0.0.csv,text/csv,96397,169
 10.13012/B2IDB-8161232_V1,2020-11-20,IctB_Jaikumar_et_al_Sorghum_2020_Supplement.xlsx,application/vnd.ms-excel,218236,40
 10.13012/B2IDB-6050723_V2,2020-11-18,Gardner_Midwest_Lyme_Invasion_Data_2020-11-18.xlsx,"",499534,12
@@ -4237,10 +4226,10 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0060601_V1,2021-02-01,pm25_rcp85.nc,"application/netcdf, application/x-netcdf",403666584,11
 10.13012/B2IDB-0060601_V1,2021-02-01,pm25_rcp45.nc,"application/netcdf, application/x-netcdf",403666584,11
 10.13012/B2IDB-2831687_V1,2021-04-28,RISRSProbsOppsData--2020-04-16.pdf,application/pdf,11060256,3
-10.13012/B2IDB-2831687_V1,2021-04-28,SLOAN_RISRS_Problems_and_Opportunities_Data Set--2020-04-13.atlproj,application/zip,295363,4
+10.13012/B2IDB-2831687_V1,2021-04-28,SLOAN_RISRS_Problems_and_Opportunities_Data Set--2020-04-13.atlproj,application/zip,295363,5
 10.13012/B2IDB-2694515_V1,2021-03-10,PhytoplasmasRef_Trivellone_etal.fas,text/plain,26493,8
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45490_4_5_interior.tif,image/tiff,9007900,3
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45462_1_2_exterior.tif,image/tiff,9115628,4
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45462_1_2_exterior.tif,image/tiff,9115628,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_41996_1_2_3_exterior.tif,image/tiff,9159000,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_41996_1_2_3_interior.tif,image/tiff,9237252,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35786_4_5_6_exterior.tif,image/tiff,9003344,1
@@ -4249,26 +4238,26 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_87783_2_3_4_interior.tif,image/tiff,10170696,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45482_1_2_interior.tif,image/tiff,9583512,4
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35786_4_5_6_interior.tif,image/tiff,9615668,4
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_39742_4_5_6_exterior.tif,image/tiff,10263584,5
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_39742_4_5_6_exterior.tif,image/tiff,10263584,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45462_1_2_interior.tif,image/tiff,9795100,3
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45490_1_2_3_exterior.tif,image/tiff,9812628,5
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45490_1_2_3_exterior.tif,image/tiff,9812628,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_41996_4_5_6_interior.tif,image/tiff,9895044,5
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45460_4_5_interior.tif,image/tiff,10134760,4
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45460_4_5_interior.tif,image/tiff,10134760,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45460_1_2_3_exterior.tif,image/tiff,10173112,3
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45463_1_2_3_exterior.tif,image/tiff,10303612,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45490_1_2_3_interior.tif,image/tiff,10318188,4
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_39742_4_5_6_interior.tif,image/tiff,10886712,5
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_39742_4_5_6_interior.tif,image/tiff,10886712,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45495_4_5_exterior.tif,image/tiff,7174552,6
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45449_3_4_interior.tif,image/tiff,7486776,5
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45449_3_4_interior.tif,image/tiff,7486776,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_86787_7_interior.tif,image/tiff,7255720,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45453_1_2_interior.tif,image/tiff,7758932,5
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45447_exterior.tif,image/tiff,7856128,4
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45447_exterior.tif,image/tiff,7856128,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45449_1_2_interior.tif,image/tiff,7755156,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Stodolaetal_Lampsilis_specimens.csv,text/csv,10301,5
 10.13012/B2IDB-5609050_V1,2021-03-15,hydianacox1nad1.nex,text/plain,143673,6
 10.13012/B2IDB-5609050_V1,2021-03-15,hydiananad1all.nex,text/plain,215024,4
 10.13012/B2IDB-5609050_V1,2021-03-15,hydianacox1all.nex,text/plain,266465,1
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45491_1_2_interior.tif,image/tiff,6081168,3
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45491_1_2_interior.tif,image/tiff,6081168,4
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45443_interior.tif,image/tiff,6983252,7
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45443_exterior.tif,image/tiff,7039920,4
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45449_3_4_exterior.tif,image/tiff,7103616,5
@@ -4282,8 +4271,8 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_35459_interior.tif,image/tiff,8581644,3
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45495_4_5_interior.tif,image/tiff,7685704,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_39742_1_2_3_interior.tif,image/tiff,8766564,5
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45490_4_5_exterior.tif,image/tiff,8154332,2
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45447_interior.tif,image/tiff,8503788,5
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45490_4_5_exterior.tif,image/tiff,8154332,3
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45447_interior.tif,image/tiff,8503788,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35786_1_2_3_interior.tif,image/tiff,8125624,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_39742_1_2_3_exterior.tif,image/tiff,8935156,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35786_1_2_3_exterior.tif,image/tiff,8334236,5
@@ -4299,8 +4288,8 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_86789_1_2_interior.tif,image/tiff,13004300,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45613_8_9_interior.tif,image/tiff,13132916,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_86787_4_5_6_interior.tif,image/tiff,13264584,3
-10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45615_18_19_20_exterior.tif,image/tiff,13298844,5
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_35065_1_2_exterior.tif,image/tiff,11761584,6
+10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45615_18_19_20_exterior.tif,image/tiff,13298844,6
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_35065_1_2_exterior.tif,image/tiff,11761584,7
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45460_1_2_3_interior.tif,image/tiff,10529924,3
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45455_1_2_3_interior.tif,image/tiff,10815476,3
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45462_3_4_interior.tif,image/tiff,10938580,5
@@ -4310,10 +4299,10 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45455_1_2_3_exterior.tif,image/tiff,11233848,7
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45471_1_2_exterior.tif,image/tiff,11053420,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35558_1_2_3_interior.tif,image/tiff,12384124,2
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45463_4_5_exterior.tif,image/tiff,11536004,5
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_86789_1_2_exterior.tif,image/tiff,11700848,4
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45463_4_5_exterior.tif,image/tiff,11536004,6
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_86789_1_2_exterior.tif,image/tiff,11700848,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45615_2_3_4_exterior.tif,image/tiff,11939980,6
-10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_37059_partiallot_interior_exterior.tif,image/tiff,13007988,5
+10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_37059_partiallot_interior_exterior.tif,image/tiff,13007988,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45463_4_5_interior.tif,image/tiff,12292464,4
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45615_2_3_4_interior.tif,image/tiff,12277612,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_22361_interior.tif,image/tiff,8199624,3
@@ -4328,18 +4317,16 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45471_1_2_interior.tif,image/tiff,11137444,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45453_3_4_exterior.tif,image/tiff,7138708,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45453_3_4_interior.tif,image/tiff,8234872,4
-10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35558_4_5_interior.tif,image/tiff,11275104,5
+10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35558_4_5_interior.tif,image/tiff,11275104,6
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_86788_interior.tif,image/tiff,6175324,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lhydiana_45463_1_2_3_interior.tif,image/tiff,10552832,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45613_5_6_interior.tif,image/tiff,12285948,2
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_41996_4_5_6_exterior.tif,image/tiff,9776724,2
-10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45615_11_12_interior.tif,image/tiff,12990732,4
+10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45615_11_12_interior.tif,image/tiff,12990732,5
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45615_6_9_10_interior.tif,image/tiff,13264248,4
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_45613_1_3_4_interior.tif,image/tiff,13845120,4
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_35558_4_5_exterior.tif,image/tiff,10646084,4
 10.13012/B2IDB-5609050_V1,2021-03-15,Lsiliquoidea_86788_exterior.tif,image/tiff,6908576,5
-10.5072/FK2IDB-6618320_V1,2016-04-29,test.txt,text/plain,4,39
-10.5072/FK2IDB-6618320_V1,2016-04-29,hello.rb,text/plain,12,97
 10.13012/B2IDB-0988473_V1,2021-04-15,mischo_scopus_API_dataset_readme_mod.txt,text/plain,7614,8
 10.13012/B2IDB-0988473_V1,2021-04-15,process_for_final_IDB.asp,text/html,3876,8
 10.13012/B2IDB-0988473_V1,2021-04-15,get_citing_from_surveys_IDB.asp,text/plain,40539,10
@@ -4368,7 +4355,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0286574_V1,2021-02-18,chicago-complete.weekly.2019-09-30-to-2019-10-06.tar,application/x-tar,253112320,11
 10.13012/B2IDB-9651987_V3,2021-02-23,Coup_Data_v2.0.0.csv,text/csv,96397,101
 10.13012/B2IDB-9651987_V3,2021-02-23,Source Document v2.0.0.pdf,application/pdf,1219500,29
-10.13012/B2IDB-9651987_V3,2021-02-23,CDP v.2.0.2 Codebook.pdf,application/pdf,443215,168
+10.13012/B2IDB-9651987_V3,2021-02-23,CDP v.2.0.2 Codebook.pdf,application/pdf,443215,172
 10.13012/B2IDB-9651987_V3,2021-02-23,README.md,text/plain,4413,30
 10.13012/B2IDB-3047783_V1,2021-02-24,README.txt,text/plain,2537,5
 10.13012/B2IDB-3047783_V1,2021-02-24,FHIST_SP_control.cam.h0.1979-2003final.nc,"application/netcdf, application/x-netcdf",395588434772,7
@@ -4383,9 +4370,9 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-2087785_V1,2021-03-17,b_summary_overall.csv,text/csv,577,4
 10.13012/B2IDB-2087785_V1,2021-03-17,Survey_A.txt,text/plain,3243,7
 10.13012/B2IDB-2087785_V1,2021-03-17,a_summary_UIUC_why_data_not_used.csv,text/csv,283,6
-10.13012/B2IDB-2087785_V1,2021-03-17,a_summary_importance_UIUC_data_used.csv,text/csv,271,8
+10.13012/B2IDB-2087785_V1,2021-03-17,a_summary_importance_UIUC_data_used.csv,text/csv,271,9
 10.13012/B2IDB-2087785_V1,2021-03-17,a_summary_overall.csv,text/csv,323,8
-10.13012/B2IDB-2087785_V1,2021-03-17,B_STEP_2_Why_Not_Used.R,text/plain,3090,8
+10.13012/B2IDB-2087785_V1,2021-03-17,B_STEP_2_Why_Not_Used.R,text/plain,3090,9
 10.13012/B2IDB-2087785_V1,2021-03-17,B_STEP_3_Why_Cite.R,text/plain,2396,8
 10.13012/B2IDB-2087785_V1,2021-03-17,b_summary_authors_cited_UIUC_article.csv,text/csv,411,8
 10.13012/B2IDB-2087785_V1,2021-03-17,b_write_ins_why_data_not_used.csv,text/csv,8159,9
@@ -4398,7 +4385,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-2087785_V1,2021-03-17,Survey_B.txt,text/plain,1852,10
 10.13012/B2IDB-2087785_V1,2021-03-17,A_STEP_1_Summary.R,text/plain,949,5
 10.13012/B2IDB-2087785_V1,2021-03-17,README_Reuse.txt,text/plain,11349,5
-10.13012/B2IDB-4580996_V2,2021-03-08,Leaf_Angles_2016.csv,text/csv,125233,5
+10.13012/B2IDB-4580996_V2,2021-03-08,Leaf_Angles_2016.csv,text/csv,125233,6
 10.13012/B2IDB-4580996_V2,2021-03-08,Biomass_Height_2016.csv,text/csv,1129,8
 10.13012/B2IDB-4580996_V2,2021-03-08,Rbc_Assay_2020.csv,text/csv,1971,8
 10.13012/B2IDB-4580996_V2,2021-03-08,Leaf_Angles_2017.csv,text/csv,128882,7
@@ -4406,7 +4393,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-4580996_V2,2021-03-08,Light_Response_Parameters_2016.csv,text/csv,19919,5
 10.13012/B2IDB-4580996_V2,2021-03-08,Light_Profiles_2020.csv,text/csv,1285,7
 10.13012/B2IDB-4580996_V2,2021-03-08,Light_Response_Parameters_2017.csv,text/csv,21240,7
-10.13012/B2IDB-4580996_V2,2021-03-08,Biomass_Height_2017.csv,text/csv,1627,6
+10.13012/B2IDB-4580996_V2,2021-03-08,Biomass_Height_2017.csv,text/csv,1627,7
 10.13012/B2IDB-4580996_V2,2021-03-08,README.txt,text/plain,7249,9
 10.13012/B2IDB-4580996_V2,2021-03-08,Enzymes_2017.csv,text/csv,2732,6
 10.13012/B2IDB-4580996_V1,2021-03-02,README.txt,text/plain,6125,2
@@ -4447,8 +4434,8 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-8255619_V1,2021-04-06,PubMed_retracted_publication_full_v3.tsv,text/plain,4551445,9
 10.13012/B2IDB-8255619_V1,2021-04-06,PubMed_retracted_publication_CitCntxt_withYR_v3.tsv,text/plain,14958420,11
 10.13012/B2IDB-5471143_V1,2021-02-26,Meta_data_for_WI_nuisance_bear_capture_histories.rtf,application/rtf,48739,13
-10.13012/B2IDB-5471143_V1,2021-02-26,WI_Nuisance_Bear_Capture_Histories_All_Bears_n1233.csv,text/csv,66473,9
-10.13012/B2IDB-5471143_V1,2021-02-26,WI_Nuisance_Bear_Capture_Histories_Translocated_Bears_with_TVIC_n1047.csv,text/csv,752454,13
+10.13012/B2IDB-5471143_V1,2021-02-26,WI_Nuisance_Bear_Capture_Histories_All_Bears_n1233.csv,text/csv,66473,10
+10.13012/B2IDB-5471143_V1,2021-02-26,WI_Nuisance_Bear_Capture_Histories_Translocated_Bears_with_TVIC_n1047.csv,text/csv,752454,14
 10.13012/B2IDB-5471143_V1,2021-02-26,Appendix_1_R_script_for_survival_analyses.R,text/plain,33114,10
 10.13012/B2IDB-7008049_V1,2021-04-11,RNASim10k.tar.gz,application/x-gzip,387341503,7
 10.13012/B2IDB-7008049_V1,2021-04-11,RNASim50k.tar.gz,application/x-gzip,714129319,8
@@ -4486,7 +4473,7 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-7486289_V1,2022-01-01,Sulcia_nucleotide.fasta,text/plain,13249370,0
 10.13012/B2IDB-7486289_V1,2022-01-01,Fla.fasta,text/plain,1922928,0
 10.13012/B2IDB-7486289_V1,2022-01-01,individual_gene_alignments.zip,application/zip,1152055,0
-10.13012/B2IDB-2580847_V1,2021-05-07,LR_legume_2021.zip,application/zip,585169640,0
+10.13012/B2IDB-2580847_V1,2021-05-07,LR_legume_2021.zip,application/zip,585169640,1
 10.13012/B2IDB-2580847_V1,2021-05-07,license.txt,text/plain,19127,0
 10.13012/B2IDB-0705058_V1,2021-04-22,heaviside.m,text/plain,96,4
 10.13012/B2IDB-0705058_V1,2021-04-22,integrate_temperateVSchronic_stress_020819.m,text/plain,3096,4
@@ -4495,12 +4482,12 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-0705058_V1,2021-04-22,SC_simTemperateVSchronic_stress_020819.m,text/plain,1625,3
 10.13012/B2IDB-0705058_V1,2021-04-22,README.docx,application/msword,14262,3
 10.13012/B2IDB-8355786_V1,2021-03-05,Adey_Larson_Isotope.csv,text/csv,4889,10
-10.13012/B2IDB-8355786_V1,2021-03-05,Adey_Larson_Behavior.csv,text/csv,4903,11
+10.13012/B2IDB-8355786_V1,2021-03-05,Adey_Larson_Behavior.csv,text/csv,4903,12
 10.13012/B2IDB-8355786_V1,2021-03-05,Readme_Adey_Larson.txt,text/plain,3215,10
 10.13012/B2IDB-3388479_V1,2021-02-25,RFSperennial_total_nleach.nc,application/x-hdf,108496,6
 10.13012/B2IDB-3388479_V1,2021-02-25,RFScstover_total_nleach.nc,application/x-hdf,108341,9
 10.13012/B2IDB-3388479_V1,2021-02-25,README.txt,text/plain,3642,7
-10.13012/B2IDB-3388479_V1,2021-02-25,RFSco_total_nleach.nc,application/x-hdf,108317,7
+10.13012/B2IDB-3388479_V1,2021-02-25,RFSco_total_nleach.nc,application/x-hdf,108317,8
 10.13012/B2IDB-3388479_V1,2021-02-25,RFS1_total_nleach.nc,application/x-hdf,107861,9
 10.13012/B2IDB-3388479_V1,2021-02-25,BEPAM_TotalNitrogenApplication.csv,text/csv,21404,5
 10.13012/B2IDB-3388479_V1,2021-02-25,RFS_total_nleach.nc,application/x-hdf,108300,11
@@ -4527,9 +4514,13 @@ doi,pub_date,filename,file_format,num_bytes,total_downloads
 10.13012/B2IDB-5457902_V1,2021-04-29,ARES_country_crop_shock.csv,text/csv,4115425,5
 10.13012/B2IDB-5457902_V1,2021-04-29,ares_dry.zip,application/zip,26077959,5
 10.13012/B2IDB-5457902_V1,2021-04-29,ares_wet.zip,application/zip,26509359,2
-10.13012/B2IDB-5457902_V1,2021-04-29,ares_cold.zip,application/zip,35900358,4
+10.13012/B2IDB-5457902_V1,2021-04-29,ares_cold.zip,application/zip,35900358,5
 10.13012/B2IDB-6081052_V1,2021-05-10,CMIP5_pred_min.zip,application/zip,4122345449,0
 10.13012/B2IDB-6081052_V1,2021-05-10,CMIP5_pred_max.zip,application/zip,4175044107,0
 10.13012/B2IDB-6081052_V1,2021-05-10,global_urban_daily_temperature_README.txt,text/plain,3903,0
 10.13012/B2IDB-4677176_V1,2021-05-07,license.txt,text/plain,19127,0
 10.13012/B2IDB-4677176_V1,2021-05-07,LR_legume_2021.zip,application/zip,585169640,0
+10.13012/B2IDB-9246015_V1,2021-05-07,employment.tsv2019,text/plain,612843397,0
+10.13012/B2IDB-9246015_V1,2021-05-07,person.tsv2019,text/plain,365417189,0
+10.13012/B2IDB-9246015_V1,2021-05-07,pubmed2orcid.tsv,text/plain,529266057,0
+10.13012/B2IDB-9246015_V1,2021-05-07,education.tsv2019,text/plain,665429075,0
